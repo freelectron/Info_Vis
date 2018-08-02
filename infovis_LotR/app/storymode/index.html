@@ -1,0 +1,80 @@
+<!DOCTYPE html height: 100%>
+<meta charset="utf-8">
+
+<head>
+    <link rel="stylesheet" type="text/css" href="dark_button.css">
+
+</head>
+<style>
+
+body {
+    /* background-color: black */
+    margin: 0px;
+}
+
+div {
+    background-color: rgba(0, 0, 0, 0.9);
+	fill-opacity: 0.4;
+	/* width: 100%; */
+	font: 12px sans-serif
+}
+.node {
+  cursor: pointer;
+}
+
+.node circle {
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+
+}
+
+.node text {
+  font: 10px sans-serif;
+  color: white;
+}
+
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 3px;
+}
+.test {
+	fill-opacity: 0.9;
+}
+
+.pure-button {
+    padding: 0px;
+}
+
+div.mode_change {
+    position: absolute;
+    top: 50%;
+    left: 0px;
+}
+
+div.tooltip {
+    position: absolute;
+    text-align: center;
+    width: 80px;
+    height: 28px;
+    font: 12px sans-serif;
+    background: lightsteelblue;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+}
+</style>
+<body>
+<script src="d3.v4.min.js"></script>
+<script src="index.js"></script>
+<div id="header">
+<button id= "playbutton" onclick="playButton()">Play</button>
+<button id= "resetbutton" onclick="resetButton()">Reset</button>
+</div>
+
+<div class="mode_change">
+    <a href="../index.html">
+        <button type="button" class="button">&#9665</button>
+    </a>
+</div>

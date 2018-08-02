@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta content="utf-8" http-equiv="encoding">
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+    <script src="./subs.js"></script>
+    <script src="http://d3js.org/d3.v4.min.js"></script>
+
+    <script>
+    var loc = "./jsons/LordoftheRings1-FOTR.json"
+
+    get_sub_data(loc).then((json) => {
+        $(document).ready(() => {
+
+            $("#timeline_test").attr({
+                "max": json[json.length-1][1],
+            })
+        })
+    })
+
+    $(document).ready(() => {
+        init_sub_shower(loc, $("#line")).then((sub_shower) => {
+            $("#timeline_test").change(() => {
+                time_point = $("#timeline_test").val()
+
+                sub_shower(time_point)
+
+            })
+        })
+    })
+    </script>
+
+</head>
+
+<body>
+    <input id="timeline_test" type=range min=0 step=1 style="width: 75%"> </input>
+    <div id="line"></div>
+
+
+</body>
+</html>

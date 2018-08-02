@@ -1,0 +1,4678 @@
+[
+  [
+    0,
+    18,
+    "0",
+    "SM\u00c9AGOL",
+    "Go on, pull it in."
+  ],
+  [
+    18,
+    25,
+    "0",
+    "SM\u00c9AGOL",
+    "D\u00e9agol!"
+  ],
+  [
+    25,
+    60,
+    "2",
+    "SM\u00c9AGOL",
+    "Give us that, D\u00e9agol, my love! Why?"
+  ],
+  [
+    60,
+    102,
+    "2",
+    "SM\u00c9AGOL",
+    "Because...it's my birthday and I wants it."
+  ],
+  [
+    102,
+    114,
+    "2",
+    "SM\u00c9AGOL",
+    "My precious!"
+  ],
+  [
+    114,
+    198,
+    "3",
+    "SM\u00c9AGOL",
+    "They cursed us. Murderer. Murderer they called us. They cursed us and drove us away."
+  ],
+  [
+    198,
+    374,
+    "3",
+    "SM\u00c9AGOL",
+    "And we wept, Precious. We wept, to be so alone. And we forgot the taste of bread, the sound of trees, the softness of the wind ... We even forgot our own name.  Gollum! Gollum!"
+  ],
+  [
+    374,
+    407,
+    "3",
+    "GOLLUM",
+    "It's mine! My own. It came to me."
+  ],
+  [
+    407,
+    419,
+    "3",
+    "SM\u00c9AGOL",
+    "My Precious."
+  ],
+  [
+    419,
+    492,
+    "4",
+    "GOLLUM",
+    "Wake up! Wake up! Wake up, sleepies! We must go, yes, we must go at once!"
+  ],
+  [
+    492,
+    529,
+    "4",
+    "SAM",
+    "Haven't you had any sleep, Mr. Frodo?"
+  ],
+  [
+    529,
+    556,
+    "4",
+    "SAM",
+    "I've gone and had too much!"
+  ],
+  [
+    556,
+    580,
+    "4",
+    "SAM",
+    "It must be getting late."
+  ],
+  [
+    580,
+    649,
+    "4",
+    "FRODO",
+    "No ... no it isn't. It isn't midday yet. The days are growing darker."
+  ],
+  [
+    649,
+    677,
+    "4",
+    "GOLLUM",
+    "Come on, must go, no time..."
+  ],
+  [
+    677,
+    721,
+    "4",
+    "SAM",
+    "Not before Mr. Frodo's had something to eat."
+  ],
+  [
+    721,
+    748,
+    "4",
+    "GOLLUM",
+    "... no time to lose, silly."
+  ],
+  [
+    748,
+    753,
+    "4",
+    "SAM",
+    "Here."
+  ],
+  [
+    753,
+    768,
+    "4",
+    "FRODO",
+    "What about you?"
+  ],
+  [
+    768,
+    815,
+    "4",
+    "SAM",
+    "I'm not hungry leastways, not for Lembas bread."
+  ],
+  [
+    815,
+    819,
+    "4",
+    "FRODO",
+    "Sam."
+  ],
+  [
+    819,
+    857,
+    "4",
+    "SAM",
+    "Alright. We don't have that much left."
+  ],
+  [
+    857,
+    988,
+    "4",
+    "SAM",
+    "We have to be careful or we're going to run out. You go ahead and eat that, Mister Frodo. I've rationed it. There should be enough."
+  ],
+  [
+    988,
+    997,
+    "4",
+    "FRODO",
+    "For what?"
+  ],
+  [
+    997,
+    1014,
+    "4",
+    "SAM",
+    "The journey home."
+  ],
+  [
+    1014,
+    1102,
+    "5",
+    "GOLLUM",
+    "Come, Hobbitses. Very close now. Very close to Mordor! No safe places here. Hurry! Shhh."
+  ],
+  [
+    1102,
+    1167,
+    "7",
+    "PIPPIN",
+    "I feel like I'm back at the Green Dragon after a hard day's work."
+  ],
+  [
+    1167,
+    1209,
+    "7",
+    "MERRY",
+    "Only, you've never done a hard day's work."
+  ],
+  [
+    1209,
+    1240,
+    "7",
+    "MERRY",
+    "Welcome, my Lords, to Isengard."
+  ],
+  [
+    1240,
+    1332,
+    "7",
+    "GIMLI",
+    "You young rascals! A merry hunt you've led us on, and now we find you, feasting and smoking."
+  ],
+  [
+    1332,
+    1444,
+    "7",
+    "PIPPIN",
+    "We are sitting on a field of victory, enjoying a few well earned comforts. The salted pork is particularly good."
+  ],
+  [
+    1444,
+    1456,
+    "7",
+    "GIMLI",
+    "Salted pork?"
+  ],
+  [
+    1456,
+    1464,
+    "7",
+    "GANDALF",
+    "Hobbits."
+  ],
+  [
+    1464,
+    1540,
+    "7",
+    "MERRY",
+    "We're under orders, from Treebeard, who's taken over management of Isengard."
+  ],
+  [
+    1540,
+    1707,
+    "7",
+    "TREEBEARD",
+    "Burarum ... Young Master Gandalf. I'm glad you've come. Wood and water, stock and stone, I can master, but there's a Wizard to be managed here ... locked in his tower."
+  ],
+  [
+    1707,
+    1766,
+    "7",
+    "GANDALF",
+    "And there Saruman must remain, under your guard, Treebeard."
+  ],
+  [
+    1766,
+    1811,
+    "7",
+    "GIMLI",
+    "Let's just have his head and be done with it."
+  ],
+  [
+    1811,
+    1840,
+    "7",
+    "GANDALF",
+    "No. He has no power any more."
+  ],
+  [
+    1840,
+    1943,
+    "7",
+    "TREEBEARD",
+    "The filth of Saruman is washing Away ... Trees will come back to live Here, young trees ... wild trees."
+  ],
+  [
+    1943,
+    1962,
+    "7",
+    "TREEBEARD",
+    "Well bless my bark!"
+  ],
+  [
+    1962,
+    2000,
+    "7",
+    "GANDALF",
+    "Peregrin Took! I'll take that, my lad."
+  ],
+  [
+    2000,
+    2013,
+    "7",
+    "GANDALF",
+    "Quickly, now!"
+  ],
+  [
+    2013,
+    2128,
+    "9",
+    "TH\u00c9ODEN",
+    "Tonight we remember those who gave their blood to defend this country. Hail the victorious dead! Westu Aragorn h\u00e1l."
+  ],
+  [
+    2128,
+    2147,
+    "9",
+    "TH\u00c9ODEN",
+    "I am happy for you."
+  ],
+  [
+    2147,
+    2199,
+    "9",
+    "TH\u00c9ODEN",
+    "He is an honorable man.  You are both honorable Men."
+  ],
+  [
+    2199,
+    2257,
+    "9",
+    "TH\u00c9ODEN",
+    "It was not Th\u00e9oden of Rohan who led our people to victory."
+  ],
+  [
+    2257,
+    2315,
+    "9",
+    "TH\u00c9ODEN",
+    "Don't listen to me. You are young, and tonight is for you."
+  ],
+  [
+    2315,
+    2584,
+    "9",
+    "MERRY",
+    "Oh, you can search up and down As many lands as can be found But you'll never find a beer so brown As the one we drink in our home town You can keep your fancy ales You can drink them by the flagon But the only brew, for the brave and true, Comes from the Green Dragon!"
+  ],
+  [
+    2584,
+    2601,
+    "9",
+    "ARAGORN",
+    "No news of Frodo?"
+  ],
+  [
+    2601,
+    2621,
+    "9",
+    "GANDALF",
+    "No word ... nothing."
+  ],
+  [
+    2621,
+    2640,
+    "9",
+    "ARAGORN",
+    "We still have time."
+  ],
+  [
+    2640,
+    2679,
+    "9",
+    "ARAGORN",
+    "Every day Frodo moves closer to Mordor."
+  ],
+  [
+    2679,
+    2695,
+    "9",
+    "GANDALF",
+    "Do we know that?"
+  ],
+  [
+    2695,
+    2725,
+    "9",
+    "ARAGORN",
+    "What does your heart tell you?"
+  ],
+  [
+    2725,
+    2768,
+    "9",
+    "GANDALF",
+    "That Frodo is alive.  Yes yes, he is alive."
+  ],
+  [
+    2768,
+    2869,
+    "10",
+    "SM\u00c9AGOL",
+    "Too risky. Too risky. The thieves! They stole it from us. Kill them ... kill them ... kill them both!"
+  ],
+  [
+    2869,
+    2872,
+    "10",
+    "SM\u00c9AGOL",
+    "No!"
+  ],
+  [
+    2872,
+    2884,
+    "10",
+    "GOLLUM",
+    "Shhh! Quiet!"
+  ],
+  [
+    2884,
+    2924,
+    "10",
+    "GOLLUM",
+    "Mustn't waken them, mustn't ruin it now!"
+  ],
+  [
+    2924,
+    2965,
+    "10",
+    "SM\u00c9AGOL",
+    "They knows, they knows, they suspects us!"
+  ],
+  [
+    2965,
+    3034,
+    "10",
+    "GOLLUM",
+    "What's it saying, my Precious, my love? Is Sm\u00e9agol losing his nerve??"
+  ],
+  [
+    3034,
+    3113,
+    "10",
+    "SM\u00c9AGOL",
+    "No! Not! Never!! Sm\u00e9agol hates nasty Hobbitses! Sm\u00e9agol wants to see them dead!"
+  ],
+  [
+    3113,
+    3176,
+    "10",
+    "GOLLUM",
+    "And we will ... Sm\u00e9agol did it once...  ... He can do it again."
+  ],
+  [
+    3176,
+    3191,
+    "10",
+    "GOLLUM",
+    "It's ours ours!"
+  ],
+  [
+    3191,
+    3237,
+    "10",
+    "SM\u00c9AGOL",
+    "We must get the Precious. We must get it back."
+  ],
+  [
+    3237,
+    3298,
+    "10",
+    "GOLLUM",
+    "Patience, patience, my love. First, we must lead them to her."
+  ],
+  [
+    3298,
+    3331,
+    "10",
+    "SM\u00c9AGOL",
+    "We lead them to the windy stairs."
+  ],
+  [
+    3331,
+    3360,
+    "10",
+    "GOLLUM",
+    "Yes, the stairs ... and then?"
+  ],
+  [
+    3360,
+    3432,
+    "10",
+    "SM\u00c9AGOL",
+    "Up, up, up, up the stairs we go ... until we come to...  ... the Tunnel!"
+  ],
+  [
+    3432,
+    3567,
+    "10",
+    "GOLLUM",
+    "And when they go in, there's no coming out. She's always hungry, she always needs to feed. She must eat. All she gets is filthy Orcses."
+  ],
+  [
+    3567,
+    3621,
+    "10",
+    "SM\u00c9AGOL",
+    "And they doesn't taste very nice, does they, Precious?"
+  ],
+  [
+    3621,
+    3690,
+    "10",
+    "GOLLUM",
+    "No ...not very nice at all, my love. She hungers for sweeter meats..."
+  ],
+  [
+    3690,
+    3784,
+    "10",
+    "GOLLUM",
+    "Hobbit meat. And when She throws away the bones and the empty clothes, then we will find it..."
+  ],
+  [
+    3784,
+    3803,
+    "10",
+    "SM\u00c9AGOL",
+    "And take it for me!"
+  ],
+  [
+    3803,
+    3812,
+    "10",
+    "GOLLUM",
+    "For us..."
+  ],
+  [
+    3812,
+    3856,
+    "10",
+    "SM\u00c9AGOL",
+    "Yes, we, we meant for us...  Gollum! Gollum!"
+  ],
+  [
+    3856,
+    3911,
+    "10",
+    "GOLLUM",
+    "The Precious will be ours, once the Hobbitses are dead!"
+  ],
+  [
+    3911,
+    3939,
+    "10",
+    "SAM",
+    "You treacherous little toad!"
+  ],
+  [
+    3939,
+    3961,
+    "10",
+    "GOLLUM",
+    "No! Not! Help! Master!"
+  ],
+  [
+    3961,
+    3986,
+    "10",
+    "FRODO",
+    "No, Sam! Leave him alone!"
+  ],
+  [
+    3986,
+    4042,
+    "10",
+    "SAM",
+    "I heard it from his own mouth ... he means to murder us!"
+  ],
+  [
+    4042,
+    4150,
+    "10",
+    "SM\u00c9AGOL",
+    "Never! Sm\u00e9agol wouldn't hurt a fly! He's a horrid, fat Hobbit who hates Sm\u00e9agol and who makes up nasty lies!"
+  ],
+  [
+    4150,
+    4203,
+    "10",
+    "SAM",
+    "You miserable little maggot! I'll stove your head in!"
+  ],
+  [
+    4203,
+    4209,
+    "10",
+    "FRODO",
+    "Sam..."
+  ],
+  [
+    4209,
+    4239,
+    "10",
+    "SAM",
+    "Call me a liar! You're a liar!"
+  ],
+  [
+    4239,
+    4277,
+    "10",
+    "FRODO",
+    "Sam! If you scare him off, we're lost."
+  ],
+  [
+    4277,
+    4356,
+    "10",
+    "SAM",
+    "I don't care! I can't do it, Mr. Frodo. I won't wait around for him to kill us!"
+  ],
+  [
+    4356,
+    4381,
+    "10",
+    "FRODO",
+    "I'm not sending him away."
+  ],
+  [
+    4381,
+    4422,
+    "10",
+    "SAM",
+    "You don't see it, do you? He's a villain!"
+  ],
+  [
+    4422,
+    4501,
+    "10",
+    "FRODO",
+    "We can't do this by ourselves, Sam. Not without a guide. I need you on my side."
+  ],
+  [
+    4501,
+    4529,
+    "10",
+    "SAM",
+    "I'm on your side, Mr. Frodo."
+  ],
+  [
+    4529,
+    4569,
+    "10",
+    "FRODO",
+    "I know, Sam. I know.  You must trust me."
+  ],
+  [
+    4569,
+    4583,
+    "10",
+    "FRODO",
+    "Come, Sm\u00e9agol."
+  ],
+  [
+    4583,
+    4656,
+    "11",
+    "LEGOLAS",
+    "The stars are veiled. Something stirs in the East ... a sleepless malice."
+  ],
+  [
+    4656,
+    4687,
+    "11",
+    "LEGOLAS",
+    "The eye of the enemy is moving."
+  ],
+  [
+    4687,
+    4702,
+    "12",
+    "MERRY",
+    "What you doing?"
+  ],
+  [
+    4702,
+    4745,
+    "12",
+    "MERRY",
+    "Pippin? Pippin? Pippin! What are you doing?"
+  ],
+  [
+    4745,
+    4765,
+    "12",
+    "MERRY",
+    "Pippin, are you mad?"
+  ],
+  [
+    4765,
+    4811,
+    "12",
+    "PIPPIN",
+    "I just want to look at it. Just one more time."
+  ],
+  [
+    4811,
+    4836,
+    "12",
+    "MERRY",
+    "Put it back! Put it back!"
+  ],
+  [
+    4836,
+    4843,
+    "12",
+    "MERRY",
+    "Pippin!"
+  ],
+  [
+    4843,
+    4850,
+    "12",
+    "MERRY",
+    "Pippin!"
+  ],
+  [
+    4850,
+    4861,
+    "13",
+    "LEGOLAS",
+    "He is here."
+  ],
+  [
+    4861,
+    4884,
+    "14",
+    "MERRY",
+    "Help! Someone help him!"
+  ],
+  [
+    4884,
+    4899,
+    "14",
+    "GANDALF",
+    "Fool of a Took!"
+  ],
+  [
+    4899,
+    4906,
+    "14",
+    "MERRY",
+    "Pippin!"
+  ],
+  [
+    4906,
+    4926,
+    "14",
+    "PIPPIN",
+    "Gandalf! Forgive me."
+  ],
+  [
+    4926,
+    4955,
+    "14",
+    "GANDALF",
+    "Look at me! What did you see?"
+  ],
+  [
+    4955,
+    5032,
+    "14",
+    "PIPPIN",
+    "A tree ... There was a white tree ... in a courtyard of stone... It was dead!"
+  ],
+  [
+    5032,
+    5055,
+    "14",
+    "PIPPIN",
+    "The city was burning..."
+  ],
+  [
+    5055,
+    5092,
+    "14",
+    "GANDALF",
+    "Minas Tirith??  Is that what you saw?"
+  ],
+  [
+    5092,
+    5148,
+    "14",
+    "PIPPIN",
+    "I saw ... I saw him ... I can hear his voice in my head."
+  ],
+  [
+    5148,
+    5177,
+    "14",
+    "GANDALF",
+    "What did you tell him? Speak!"
+  ],
+  [
+    5177,
+    5231,
+    "14",
+    "PIPPIN",
+    "He asked me my name, I didn't Answer ... he hurt me..."
+  ],
+  [
+    5231,
+    5278,
+    "14",
+    "GANDALF",
+    "What did you tell him about Frodo and the Ring?"
+  ],
+  [
+    5278,
+    5397,
+    "15",
+    "GANDALF",
+    "There was no lie in Pippin's eyes; a fool, but an honest fool he remains. He told Sauron nothing of Frodo and the Ring."
+  ],
+  [
+    5397,
+    5495,
+    "15",
+    "GANDALF",
+    "We've been strangely fortunate. What Pippin saw in the Palant\u00edr was a glimpse of our enemy's plan."
+  ],
+  [
+    5495,
+    5597,
+    "15",
+    "GANDALF",
+    "Sauron moves to strike the city of Minas Tirith. His defeat at Helm's Deep showed our enemy one thing."
+  ],
+  [
+    5597,
+    5730,
+    "15",
+    "GANDALF",
+    "The Heir of Elendil has come forth. Men are not as weak as he supposed. There is courage still strength enough left to challenge him."
+  ],
+  [
+    5730,
+    5898,
+    "15",
+    "GANDALF",
+    "Sauron fears this. He will not risk the peoples of Middle earth uniting under one banner. He will raze Minas Tirith to the ground before he sees the return of the King."
+  ],
+  [
+    5898,
+    5960,
+    "15",
+    "GANDALF",
+    "If the beacons of Gondor are lit, Rohan must be ready for war!"
+  ],
+  [
+    5960,
+    6033,
+    "15",
+    "TH\u00c9ODEN",
+    "Tell me. Why should we ride to the aid of those who did not come to ours?"
+  ],
+  [
+    6033,
+    6055,
+    "15",
+    "TH\u00c9ODEN",
+    "What do we owe Gondor?"
+  ],
+  [
+    6055,
+    6065,
+    "15",
+    "ARAGORN",
+    "I will go."
+  ],
+  [
+    6065,
+    6068,
+    "15",
+    "GANDALF",
+    "No!"
+  ],
+  [
+    6068,
+    6088,
+    "15",
+    "ARAGORN",
+    "They must be warned!"
+  ],
+  [
+    6088,
+    6259,
+    "15",
+    "GANDALF",
+    "They will be.  You must come to Minas Tirith by another road.  Follow the river, look to the black ships.  Understand this, things are now in motion that cannot be undone."
+  ],
+  [
+    6259,
+    6311,
+    "15",
+    "GANDALF",
+    "I ride for Minas Tirith! And I won't be going alone!"
+  ],
+  [
+    6311,
+    6390,
+    "16",
+    "GANDALF",
+    "Of all the inquisitive Hobbits, Peregrin Took, you are the worst! Hurry, hurry!"
+  ],
+  [
+    6390,
+    6409,
+    "16",
+    "PIPPIN",
+    "Where are we going?"
+  ],
+  [
+    6409,
+    6457,
+    "16",
+    "MERRY",
+    "Why did you look why do you always have to look?"
+  ],
+  [
+    6457,
+    6487,
+    "16",
+    "PIPPIN",
+    "I don't know. I can't help it."
+  ],
+  [
+    6487,
+    6501,
+    "16",
+    "MERRY",
+    "You never can."
+  ],
+  [
+    6501,
+    6543,
+    "16",
+    "PIPPIN",
+    "I'm sorry, all right? I won't do it again."
+  ],
+  [
+    6543,
+    6679,
+    "16",
+    "MERRY",
+    "Don't you understand ... the Enemy thinks you have the Ring ... he's going to be looking for you, Pip. They have to get you out of here!"
+  ],
+  [
+    6679,
+    6720,
+    "16",
+    "PIPPIN",
+    "And you. You're coming with me ... Merry?"
+  ],
+  [
+    6720,
+    6728,
+    "16",
+    "MERRY",
+    "Come on!"
+  ],
+  [
+    6728,
+    6752,
+    "17",
+    "PIPPIN",
+    "How far is Minas Tirith?"
+  ],
+  [
+    6752,
+    6849,
+    "17",
+    "GANDALF",
+    "Three days ride, as the Nazg\u00fbl flies, and you better hope we don't have one of those on our tail."
+  ],
+  [
+    6849,
+    6877,
+    "17",
+    "MERRY",
+    "Here something for the road."
+  ],
+  [
+    6877,
+    6909,
+    "17",
+    "PIPPIN",
+    "The last of the Longbottom Leaf."
+  ],
+  [
+    6909,
+    6959,
+    "17",
+    "MERRY",
+    "I know you've run out ... You smoke too much, Pip."
+  ],
+  [
+    6959,
+    6989,
+    "17",
+    "PIPPIN",
+    "But we'll see each other soon?"
+  ],
+  [
+    6989,
+    6998,
+    "17",
+    "PIPPIN",
+    "Won't we?"
+  ],
+  [
+    6998,
+    7050,
+    "17",
+    "MERRY",
+    "I don't know... I don't know what's going to happen."
+  ],
+  [
+    7050,
+    7056,
+    "17",
+    "PIPPIN",
+    "Merry?"
+  ],
+  [
+    7056,
+    7100,
+    "17",
+    "GANDALF",
+    "Run Shadowfax. Show us the meaning of haste."
+  ],
+  [
+    7100,
+    7106,
+    "17",
+    "PIPPIN",
+    "Merry!"
+  ],
+  [
+    7106,
+    7252,
+    "20",
+    "ELROND",
+    "Take her by the safest road. A ship lies anchored in the Grey Havens. It waits to carry her across the sea ... the last journey of Arwen Und\u00f3miel."
+  ],
+  [
+    7252,
+    7304,
+    "20",
+    "ELROND",
+    "Arwen, there is nothing for you here ... only death."
+  ],
+  [
+    7304,
+    7315,
+    "20",
+    "FIGWIT",
+    "Lady Arwen?"
+  ],
+  [
+    7315,
+    7331,
+    "20",
+    "FIGWIT",
+    "We cannot delay."
+  ],
+  [
+    7331,
+    7339,
+    "20",
+    "FIGWIT",
+    "My Lady!"
+  ],
+  [
+    7339,
+    7356,
+    "22",
+    "ARWEN",
+    "What did you see?"
+  ],
+  [
+    7356,
+    7362,
+    "22",
+    "ELROND",
+    "Arwen?"
+  ],
+  [
+    7362,
+    7420,
+    "22",
+    "ARWEN",
+    "You have the gift of foresight tell me what you have seen."
+  ],
+  [
+    7420,
+    7462,
+    "22",
+    "ELROND",
+    "I looked into your future and I saw death."
+  ],
+  [
+    7462,
+    7481,
+    "22",
+    "ARWEN",
+    "There is also life."
+  ],
+  [
+    7481,
+    7525,
+    "22",
+    "ARWEN",
+    "You saw there was a child... you saw my son."
+  ],
+  [
+    7525,
+    7552,
+    "22",
+    "ELROND",
+    "That future is almost gone."
+  ],
+  [
+    7552,
+    7573,
+    "22",
+    "ARWEN",
+    "But it is not lost..."
+  ],
+  [
+    7573,
+    7592,
+    "22",
+    "ELROND",
+    "Nothing is certain."
+  ],
+  [
+    7592,
+    7680,
+    "22",
+    "ARWEN",
+    "Some things are certain. If I leave him now, I will regret it forever.  Ada, it is time."
+  ],
+  [
+    7680,
+    7797,
+    "22",
+    "ARWEN",
+    "From the ashes a fire shall be woken, a light from the shadow shall spring, renewed shall be blade that was broken..."
+  ],
+  [
+    7797,
+    7833,
+    "22",
+    "ARWEN",
+    "The crownless again shall be King..."
+  ],
+  [
+    7833,
+    7851,
+    "22",
+    "ARWEN",
+    "Reforge the sword."
+  ],
+  [
+    7851,
+    7857,
+    "23",
+    "ARWEN",
+    "Ada..."
+  ],
+  [
+    7857,
+    7916,
+    "23",
+    "ELROND",
+    "Your hands are cold.  The life of the Eldar is leaving you."
+  ],
+  [
+    7916,
+    7929,
+    "23",
+    "ELROND",
+    "It has begun."
+  ],
+  [
+    7929,
+    8030,
+    "23",
+    "ARWEN",
+    "This was my choice. Ada ... Whether by your will or not, there is no ship now that can bear me hence."
+  ],
+  [
+    8030,
+    8075,
+    "25",
+    "GANDALF",
+    "We have just passed into the realm of Gondor."
+  ],
+  [
+    8075,
+    8110,
+    "26",
+    "GANDALF",
+    "Minas Tirith ... City of the Kings."
+  ],
+  [
+    8110,
+    8143,
+    "28",
+    "PIPPIN",
+    "It's the tree.  Gandalf! Gandalf!"
+  ],
+  [
+    8143,
+    8195,
+    "28",
+    "GANDALF",
+    "Yes, the White Tree of Gondor. The tree of the King."
+  ],
+  [
+    8195,
+    8285,
+    "28",
+    "GANDALF",
+    "Lord Denethor, however, is not the king. He is a steward, only. A caretaker of the throne."
+  ],
+  [
+    8285,
+    8556,
+    "28",
+    "GANDALF",
+    "Now, listen carefully. Lord Denethor is Boromir's father. To give him news of his beloved son's death would be most unwise ... And do not mention Frodo ... Or the Ring ... And say nothing of Aragorn, either.  In fact, it's better if you don't speak at all, Peregrin Took."
+  ],
+  [
+    8556,
+    8616,
+    "29",
+    "GANDALF",
+    "Hail Denethor, son of Ecthelion, Lord and Steward of Gondor."
+  ],
+  [
+    8616,
+    8671,
+    "29",
+    "GANDALF",
+    "I come with tidings in this dark hour and with counsel."
+  ],
+  [
+    8671,
+    8704,
+    "29",
+    "DENETHOR",
+    "Perhaps you come to explain this?"
+  ],
+  [
+    8704,
+    8751,
+    "29",
+    "DENETHOR",
+    "Perhaps you come to tell me why my son is dead."
+  ],
+  [
+    8751,
+    8838,
+    "29",
+    "PIPPIN",
+    "Boromir died to save us ... my kinsman and me ... he fell, defending us from many foes."
+  ],
+  [
+    8838,
+    8845,
+    "29",
+    "GANDALF",
+    "Pippin!"
+  ],
+  [
+    8845,
+    8908,
+    "29",
+    "PIPPIN",
+    "I offer you my service, such as it is, in payment of this debt."
+  ],
+  [
+    8908,
+    9123,
+    "29",
+    "GANDALF",
+    "Get up!  My Lord, there will be a time to grieve for Boromir, but it is not now. War is coming ... the Enemy is on your doorstep. As Steward, you are charged with the defense of this city. Where are Gondor's armies?"
+  ],
+  [
+    9123,
+    9228,
+    "29",
+    "GANDALF",
+    "You still have friends You are not alone in this fight. Send word to Th\u00e9oden of Rohan. Light the beacons."
+  ],
+  [
+    9228,
+    9512,
+    "29",
+    "DENETHOR",
+    "You think you are wise, Mithrandir, yet for all your subtleties you have not wisdom. Do you think the eyes of the White Tower are blind? I have seen more than you know. With your left hand you would use me as a shield against Mordor, and with your right you would seek to supplant me."
+  ],
+  [
+    9512,
+    9733,
+    "29",
+    "DENETHOR",
+    "I know who rides with Th\u00e9oden of Rohan. Oh, yes. Word has reached my ears of this Aragorn, son of Arathorn, and I tell you now, I will not bow to this Ranger from the North, last of a ragged house long bereft of Lordship."
+  ],
+  [
+    9733,
+    9799,
+    "29",
+    "GANDALF",
+    "Authority is not given you to deny the return of the King Steward!"
+  ],
+  [
+    9799,
+    9842,
+    "29",
+    "DENETHOR",
+    "The rule of Gondor is mine, and no other's!"
+  ],
+  [
+    9842,
+    9847,
+    "29",
+    "GANDALF",
+    "Come."
+  ],
+  [
+    9847,
+    9968,
+    "30",
+    "PIPPIN",
+    "So I imagine this is just a ceremonial Position ... I mean, they don't actually expect me to do any fighting ... do they?"
+  ],
+  [
+    9968,
+    10091,
+    "30",
+    "GANDALF",
+    "You're in the service of the Steward Now You're going to have to do as you're told, Peregrin Took...  Guard of the Citadel!"
+  ],
+  [
+    10091,
+    10105,
+    "31",
+    "PIPPIN",
+    "It's so quiet."
+  ],
+  [
+    10105,
+    10144,
+    "31",
+    "GANDALF",
+    "It's the deep breath before the plunge."
+  ],
+  [
+    10144,
+    10286,
+    "31",
+    "PIPPIN",
+    "I don't want to be in a battle ... but waiting on the edge of one I can't escape is even worse.  Is there any hope, Gandalf for Frodo and Sam?"
+  ],
+  [
+    10286,
+    10312,
+    "31",
+    "GANDALF",
+    "There never was much hope."
+  ],
+  [
+    10312,
+    10331,
+    "31",
+    "GANDALF",
+    "Just a fool's hope."
+  ],
+  [
+    10331,
+    10417,
+    "31",
+    "GANDALF",
+    "Our enemy is almost ready, his full strength gathered. Not only Orcs, but men as well."
+  ],
+  [
+    10417,
+    10454,
+    "31",
+    "GANDALF",
+    "Legions of Haradrim from the South..."
+  ],
+  [
+    10454,
+    10515,
+    "31",
+    "GANDALF",
+    "Mercenaries from the coast ... All will answer Mordor's call."
+  ],
+  [
+    10515,
+    10605,
+    "31",
+    "GANDALF",
+    "This will be the end of Gondor as we know it. Here the hammerstroke will fall the hardest."
+  ],
+  [
+    10605,
+    10707,
+    "31",
+    "GANDALF",
+    "If the river is taken, if the garrison at Osgiliath falls, the last defense of this city will be gone."
+  ],
+  [
+    10707,
+    10771,
+    "31",
+    "PIPPIN",
+    "But we have the White Wizard, that's got to count for something."
+  ],
+  [
+    10771,
+    10779,
+    "31",
+    "PIPPIN",
+    "Gandalf?"
+  ],
+  [
+    10779,
+    10917,
+    "31",
+    "GANDALF",
+    "Sauron has yet to release his deadliest servant ... The one who will lead Mordor's armies in war, the one they say no living man can kill."
+  ],
+  [
+    10917,
+    10972,
+    "31",
+    "GANDALF",
+    "The Witch King of Angmar... he looks down at a startled"
+  ],
+  [
+    10972,
+    10996,
+    "31",
+    "PIPPIN",
+    "You've met him before..."
+  ],
+  [
+    10996,
+    11027,
+    "31",
+    "GANDALF",
+    "He stabbed Frodo on Weathertop."
+  ],
+  [
+    11027,
+    11083,
+    "31",
+    "GANDALF",
+    "He is the Lord of the Nazg\u00fbl the greatest of the nine..."
+  ],
+  [
+    11083,
+    11112,
+    "32",
+    "GANDALF",
+    "And Minas Morgul is his lair."
+  ],
+  [
+    11112,
+    11165,
+    "32",
+    "GOLLUM",
+    "The Dead City, very nasty place, full of ... enemies."
+  ],
+  [
+    11165,
+    11208,
+    "32",
+    "GOLLUM",
+    "Quick! Quick! They will see, they will see."
+  ],
+  [
+    11208,
+    11253,
+    "32",
+    "GOLLUM",
+    "Come away, come away. Look! We have found it."
+  ],
+  [
+    11253,
+    11273,
+    "32",
+    "GOLLUM",
+    "The way into Mordor!"
+  ],
+  [
+    11273,
+    11301,
+    "32",
+    "GOLLUM",
+    "The secret stairs ... climb!"
+  ],
+  [
+    11301,
+    11315,
+    "32",
+    "SAM",
+    "No, Mr. Frodo!"
+  ],
+  [
+    11315,
+    11328,
+    "32",
+    "GOLLUM",
+    "Not that way!"
+  ],
+  [
+    11328,
+    11344,
+    "32",
+    "GOLLUM",
+    "What's it doing?"
+  ],
+  [
+    11344,
+    11347,
+    "32",
+    "SAM",
+    "No!"
+  ],
+  [
+    11347,
+    11366,
+    "32",
+    "FRODO",
+    "They're calling me!"
+  ],
+  [
+    11366,
+    11377,
+    "34",
+    "GOLLUM",
+    "Hide! Hide!"
+  ],
+  [
+    11377,
+    11398,
+    "36",
+    "FRODO",
+    "I can feel his blade!"
+  ],
+  [
+    11398,
+    11453,
+    "37",
+    "GANDALF",
+    "We come to it at last ... the great battle of our time."
+  ],
+  [
+    11453,
+    11606,
+    "38",
+    "GANDALF",
+    "This war is long planned. Sauron has hated The West through many ages ... It is a Hatred that flows from the depths of time, Across the deeps of the Sea."
+  ],
+  [
+    11606,
+    11644,
+    "38",
+    "GOLLUM",
+    "Come, Hobbits. We climb we must climb!"
+  ],
+  [
+    11644,
+    11684,
+    "39",
+    "GANDALF",
+    "The board is set, the pieces are moving."
+  ],
+  [
+    11684,
+    11812,
+    "40",
+    "GANDALF",
+    "Peregrin Took, my lad, there is a task now to be done. Another opportunity for one of the Shire folk to prove their great worth!"
+  ],
+  [
+    11812,
+    11833,
+    "40",
+    "GANDALF",
+    "You must not fail me."
+  ],
+  [
+    11833,
+    11839,
+    "41",
+    "GOTHMOG",
+    "Quiet!"
+  ],
+  [
+    11839,
+    11858,
+    "42",
+    "FARAMIR",
+    "To the river quick!"
+  ],
+  [
+    11858,
+    11865,
+    "42",
+    "GOTHMOG",
+    "Faster!"
+  ],
+  [
+    11865,
+    11877,
+    "42",
+    "ORC",
+    "Draw swords!"
+  ],
+  [
+    11877,
+    11900,
+    "48",
+    "GANDALF",
+    "Amon D\u00een ... come on..."
+  ],
+  [
+    11900,
+    11942,
+    "48",
+    "GUARD",
+    "The beacon! The beacon at Amon D\u00een is lit!"
+  ],
+  [
+    11942,
+    11958,
+    "48",
+    "GANDALF",
+    "Hope is kindled."
+  ],
+  [
+    11958,
+    12029,
+    "51",
+    "ARAGORN",
+    "The beacons of Minas Tirith! The beacons are lit! Gondor calls for aid!"
+  ],
+  [
+    12029,
+    12073,
+    "51",
+    "TH\u00c9ODEN",
+    "Then Rohan will answer. Muster the Rohirrim!"
+  ],
+  [
+    12073,
+    12199,
+    "52",
+    "TH\u00c9ODEN",
+    "Assemble the Men at Dunharrow as many Men as can be found. You have two days ... On the third, we ride for Gondor ... and war."
+  ],
+  [
+    12199,
+    12287,
+    "52",
+    "TH\u00c9ODEN",
+    "Gamling, make haste across the Riddermark ... Summon every able bodied man to Dunharrow!"
+  ],
+  [
+    12287,
+    12506,
+    "52",
+    "ARAGORN",
+    "You ride with us? Just to the encampment. It's tradition for the women of the Court to farewell the Men. \u00c9OWYN   The Men have found their Captain they will follow you into battle, even to death.  You have given us hope."
+  ],
+  [
+    12506,
+    12690,
+    "52",
+    "TH\u00c9ODEN",
+    "So ... It is before the walls of Minas Tirith that the doom of our time will be decided. Now is the hour! Riders of Rohan Oaths you have taken. Now, fulfill them all For Lord and land!"
+  ],
+  [
+    12690,
+    12728,
+    "54",
+    "MADRIL",
+    "We cannot hold them! The city is lost!"
+  ],
+  [
+    12728,
+    12779,
+    "54",
+    "FARAMIR",
+    "Tell the Men to break up. We ride for Minas Tirith."
+  ],
+  [
+    12779,
+    12786,
+    "54",
+    "SOLDIER",
+    "Nazg\u00fbl!"
+  ],
+  [
+    12786,
+    12797,
+    "54",
+    "FARAMIR",
+    "Take cover!"
+  ],
+  [
+    12797,
+    12834,
+    "54",
+    "FARAMIR",
+    "Pull back! Pull back to Minas Tirith!"
+  ],
+  [
+    12834,
+    12887,
+    "54",
+    "GOTHMOG",
+    "The age of Men is over. The time of the Orc has come."
+  ],
+  [
+    12887,
+    12908,
+    "57",
+    "IORLAS",
+    "Open the Gates! Pull!"
+  ],
+  [
+    12908,
+    12919,
+    "57",
+    "FARAMIR",
+    "Mithrandir!"
+  ],
+  [
+    12919,
+    13040,
+    "57",
+    "FARAMIR",
+    "They broke through our defenses. They have taken the bridge and the West Bank. Battalions of Orcs are crossing the River."
+  ],
+  [
+    13040,
+    13108,
+    "57",
+    "IORLAS",
+    "It is as the Lord Denethor predicted long has he foreseen this doom!"
+  ],
+  [
+    13108,
+    13134,
+    "57",
+    "GANDALF",
+    "Foreseen and done nothing!"
+  ],
+  [
+    13134,
+    13204,
+    "57",
+    "GANDALF",
+    "Faramir? ... This is not the first Halfling to have crossed your path?"
+  ],
+  [
+    13204,
+    13207,
+    "57",
+    "FARAMIR",
+    "No."
+  ],
+  [
+    13207,
+    13233,
+    "57",
+    "PIPPIN",
+    "You've seen Frodo and Sam?"
+  ],
+  [
+    13233,
+    13245,
+    "57",
+    "GANDALF",
+    "Where? When?"
+  ],
+  [
+    13245,
+    13328,
+    "57",
+    "FARAMIR",
+    "In Ithilien, not two days ago. Gandalf they are taking the road to the Morgul Vale."
+  ],
+  [
+    13328,
+    13365,
+    "57",
+    "GANDALF",
+    "...And then the Pass of Cirith Ungol."
+  ],
+  [
+    13365,
+    13399,
+    "57",
+    "PIPPIN",
+    "What does that mean? What's wrong?"
+  ],
+  [
+    13399,
+    13430,
+    "57",
+    "GANDALF",
+    "Faramir ... Tell me everything."
+  ],
+  [
+    13430,
+    13502,
+    "58",
+    "GOLLUM",
+    "Careful, Master careful! Very far to fall. Very dangerous on the stairs."
+  ],
+  [
+    13502,
+    13515,
+    "59",
+    "GOLLUM",
+    "Come, Master."
+  ],
+  [
+    13515,
+    13531,
+    "59",
+    "GOLLUM",
+    "Come to Sm\u00e9agol."
+  ],
+  [
+    13531,
+    13541,
+    "59",
+    "SAM",
+    "Mr. Frodo!"
+  ],
+  [
+    13541,
+    13571,
+    "59",
+    "SAM",
+    "Get back you! Don't touch him!"
+  ],
+  [
+    13571,
+    13645,
+    "59",
+    "GOLLUM",
+    "Why does he hates poor Sm\u00e9agol? What has Sm\u00e9agol ever done to him? Master?"
+  ],
+  [
+    13645,
+    13763,
+    "59",
+    "GOLLUM",
+    "Master carries heavy burden ... Sm\u00e9agol Knows ... Heavy, heavy burden. Fat one cannot know. Sm\u00e9agol look after Master."
+  ],
+  [
+    13763,
+    13902,
+    "59",
+    "GOLLUM",
+    "He wants it he needs it! Sm\u00e9agol sees it in his eyes. Very soon, he will ask you for it you will see ... the Fat One will take it from you."
+  ],
+  [
+    13902,
+    13988,
+    "60",
+    "WITCH",
+    "Send forth all legions. Do not stop the attack until the city is taken. Slay them all."
+  ],
+  [
+    13988,
+    14007,
+    "60",
+    "GOTHMOG",
+    "What of the Wizard?"
+  ],
+  [
+    14007,
+    14024,
+    "60",
+    "WITCH",
+    "I will break him."
+  ],
+  [
+    14024,
+    14049,
+    "61",
+    "SOLDIER",
+    "What of Th\u00e9oden's Riders?"
+  ],
+  [
+    14049,
+    14072,
+    "61",
+    "SOLDIER",
+    "Will Rohan's army come?"
+  ],
+  [
+    14072,
+    14083,
+    "61",
+    "SOLDIER",
+    "Mithrandir?"
+  ],
+  [
+    14083,
+    14129,
+    "61",
+    "GANDALF",
+    "Courage is the best defense that you have now."
+  ],
+  [
+    14129,
+    14282,
+    "62",
+    "PIPPIN",
+    "Here do I swear fealty and service to Gondor, in peace or war, in living or dying, from this hour henceforth, until my lord release me, or death take me."
+  ],
+  [
+    14282,
+    14350,
+    "62",
+    "DENETHOR",
+    "And I shall not forget it, nor fail to reward that which is given..."
+  ],
+  [
+    14350,
+    14372,
+    "62",
+    "DENETHOR",
+    "...fealty with love..."
+  ],
+  [
+    14372,
+    14394,
+    "62",
+    "DENETHOR",
+    "...valor with honor..."
+  ],
+  [
+    14394,
+    14423,
+    "62",
+    "DENETHOR",
+    "...disloyalty with vengeance."
+  ],
+  [
+    14423,
+    14531,
+    "62",
+    "DENETHOR",
+    "I do not think we should so lightly abandon the outer defenses; defenses that your brother long held intact."
+  ],
+  [
+    14531,
+    14557,
+    "62",
+    "FARAMIR",
+    "What would you have me do?"
+  ],
+  [
+    14557,
+    14632,
+    "62",
+    "DENETHOR",
+    "I will not yield the River and Pelennor unfought Osgiliath must be retaken."
+  ],
+  [
+    14632,
+    14662,
+    "62",
+    "FARAMIR",
+    "My Lord, Osgiliath is overrun."
+  ],
+  [
+    14662,
+    14762,
+    "62",
+    "DENETHOR",
+    "Much must be risked in war. Is there a captain here who still has the courage to do his Lord's will?"
+  ],
+  [
+    14762,
+    14849,
+    "62",
+    "FARAMIR",
+    "You wish now that our places had been exchanged, that I had died and Boromir had lived?"
+  ],
+  [
+    14849,
+    14866,
+    "62",
+    "DENETHOR",
+    "Yes, I wish that."
+  ],
+  [
+    14866,
+    14933,
+    "62",
+    "FARAMIR",
+    "Since you are robbed of Boromir, I will do what I can in his stead."
+  ],
+  [
+    14933,
+    14983,
+    "62",
+    "FARAMIR",
+    "If I should return ... think better of me, father."
+  ],
+  [
+    14983,
+    15029,
+    "62",
+    "DENETHOR",
+    "That will depend on the manner of your return."
+  ],
+  [
+    15029,
+    15070,
+    "63",
+    "SAM",
+    "What are you up to? Sneaking off, are we?"
+  ],
+  [
+    15070,
+    15260,
+    "63",
+    "SM\u00c9AGOL",
+    "Sneaking? Sneaking? Fat Hobbit is always so polite. Sm\u00e9agol shows them secret ways that nobody else could find and they say Sneak! , Sneak! Very nice friends, oh yes, my Precious, very nice."
+  ],
+  [
+    15260,
+    15327,
+    "63",
+    "SAM",
+    "Alright, alright You just startled me is all.  What were you doing?"
+  ],
+  [
+    15327,
+    15336,
+    "63",
+    "SM\u00c9AGOL",
+    "Sneaking!"
+  ],
+  [
+    15336,
+    15363,
+    "63",
+    "SAM",
+    "Fine, have it your own way."
+  ],
+  [
+    15363,
+    15417,
+    "63",
+    "SAM",
+    "Sorry to wake you, Mr. Frodo. We have to be moving on."
+  ],
+  [
+    15417,
+    15433,
+    "63",
+    "FRODO",
+    "It's dark still."
+  ],
+  [
+    15433,
+    15454,
+    "63",
+    "SAM",
+    "It's always dark here"
+  ],
+  [
+    15454,
+    15484,
+    "63",
+    "SAM",
+    "It's gone ... the Elven bread!"
+  ],
+  [
+    15484,
+    15514,
+    "63",
+    "FRODO",
+    "What? That's all we have left!"
+  ],
+  [
+    15514,
+    15539,
+    "63",
+    "SAM",
+    "He took it! He must have!"
+  ],
+  [
+    15539,
+    15604,
+    "63",
+    "GOLLUM",
+    "Sm\u00e9agol? No, no, not poor Sm\u00e9agol. Sm\u00e9agol hates nasty Elf bread!"
+  ],
+  [
+    15604,
+    15651,
+    "63",
+    "SAM",
+    "You're a lying wretch! What did you do with it?"
+  ],
+  [
+    15651,
+    15696,
+    "63",
+    "FRODO",
+    "He doesn't eat it ... he can't have taken it."
+  ],
+  [
+    15696,
+    15827,
+    "63",
+    "GOLLUM",
+    "What's this? Crumbs on his jacketses!  He took it! He took it! I seen him, he's always stuffing his face when Master's not looking!"
+  ],
+  [
+    15827,
+    15847,
+    "63",
+    "SAM",
+    "That's a filthy Lie!"
+  ],
+  [
+    15847,
+    15895,
+    "63",
+    "SAM",
+    "You stinking two faced sneak! Call me a thief..."
+  ],
+  [
+    15895,
+    15908,
+    "63",
+    "FRODO",
+    "Sam! Stop it!"
+  ],
+  [
+    15908,
+    15937,
+    "63",
+    "SAM",
+    "I'll kill him! I'll kill him!"
+  ],
+  [
+    15937,
+    15945,
+    "63",
+    "FRODO",
+    "No, Sam!"
+  ],
+  [
+    15945,
+    16042,
+    "63",
+    "SAM",
+    "Alright, I'm sorry, I didn't mean for it to go so far. I was angry ... Here, let's rest up a bit."
+  ],
+  [
+    16042,
+    16054,
+    "63",
+    "FRODO",
+    "I'm alright."
+  ],
+  [
+    16054,
+    16236,
+    "63",
+    "SAM",
+    "No, no, you're not alright! You're exhausted. It's that Gollum; it's this place; it's that thing around your neck. I could help a bit ... I could carry it for a while share the load."
+  ],
+  [
+    16236,
+    16245,
+    "63",
+    "FRODO",
+    "Get away!"
+  ],
+  [
+    16245,
+    16293,
+    "63",
+    "SAM",
+    "I don't want to keep it ... I just want to help!"
+  ],
+  [
+    16293,
+    16327,
+    "63",
+    "GOLLUM",
+    "See! See! He wants it for himself."
+  ],
+  [
+    16327,
+    16366,
+    "63",
+    "SAM",
+    "Shut up, you! Go away. Get out of here."
+  ],
+  [
+    16366,
+    16387,
+    "63",
+    "FRODO",
+    "No, Sam ... it's you."
+  ],
+  [
+    16387,
+    16404,
+    "63",
+    "FRODO",
+    "I'm sorry, Sam..."
+  ],
+  [
+    16404,
+    16457,
+    "63",
+    "SAM",
+    "But ... he's a liar ... he's poisoned you against me."
+  ],
+  [
+    16457,
+    16483,
+    "63",
+    "FRODO",
+    "You can't help me anymore."
+  ],
+  [
+    16483,
+    16503,
+    "63",
+    "SAM",
+    "You don't mean that."
+  ],
+  [
+    16503,
+    16511,
+    "63",
+    "FRODO",
+    "Go home."
+  ],
+  [
+    16511,
+    16609,
+    "64",
+    "GANDALF",
+    "Faramir! Faramir! Your father's will has turned to madness! Do not throw away your life so rashly!"
+  ],
+  [
+    16609,
+    16650,
+    "64",
+    "FARAMIR",
+    "Where does my allegiance lie if not here?"
+  ],
+  [
+    16650,
+    16719,
+    "64",
+    "GANDALF",
+    "Your father loves you, Faramir!  And will remember it before the end."
+  ],
+  [
+    16719,
+    16747,
+    "67",
+    "DENETHOR",
+    "Can you sing, Master Hobbit?"
+  ],
+  [
+    16747,
+    16920,
+    "67",
+    "PIPPIN",
+    "Well ... yes, at least, well enough for my own people ... but we have no songs for great halls and evil times ... we seldom sing of anything more terrible than wind or rain."
+  ],
+  [
+    16920,
+    17017,
+    "67",
+    "DENETHOR",
+    "And why should your songs be unfit for my halls, or for hours such as these. Come sing me a song!"
+  ],
+  [
+    17017,
+    17217,
+    "67",
+    "PIPPIN",
+    "Home is behind, the world ahead, And there are many paths to tread. Through shadow to the edge of night Until the stars are all alight. Mist and shadow, cloud and shade All shall fade, all shall fade."
+  ],
+  [
+    17217,
+    17236,
+    "72",
+    "TH\u00c9ODEN",
+    "Grimbold, how many?"
+  ],
+  [
+    17236,
+    17288,
+    "72",
+    "GRIMBOLD",
+    "I bring five hundred Men from the Westfold, My Lord."
+  ],
+  [
+    17288,
+    17343,
+    "72",
+    "ROHAN",
+    "We have three hundred more from Fenmarch, Th\u00e9oden King."
+  ],
+  [
+    17343,
+    17379,
+    "72",
+    "TH\u00c9ODEN",
+    "Where are the riders from Snowbourn?"
+  ],
+  [
+    17379,
+    17403,
+    "72",
+    "GAMLING",
+    "None have come, My Lord."
+  ],
+  [
+    17403,
+    17466,
+    "73",
+    "TH\u00c9ODEN",
+    "Six thousand spears ... less than half of what I'd hoped for..."
+  ],
+  [
+    17466,
+    17527,
+    "73",
+    "ARAGORN",
+    "Six thousand will not be enough to break the lines of Mordor."
+  ],
+  [
+    17527,
+    17542,
+    "73",
+    "TH\u00c9ODEN",
+    "More will come."
+  ],
+  [
+    17542,
+    17620,
+    "73",
+    "ARAGORN",
+    "Every hour lost hastens Gondor's defeat. We have till dawn. Then we must ride."
+  ],
+  [
+    17620,
+    17723,
+    "74",
+    "LEGOLAS",
+    "The horses are restless ... and the Men are quiet... They grow nervous in the shadow of the mountain..."
+  ],
+  [
+    17723,
+    17760,
+    "74",
+    "GIMLI",
+    "That road there where does that lead?"
+  ],
+  [
+    17760,
+    17883,
+    "74",
+    "LEGOLAS",
+    "It is the road to the Dimholt... The door under the mountain. None who venture there ever return.  That mountain is evil..."
+  ],
+  [
+    17883,
+    17891,
+    "74",
+    "GIMLI",
+    "Aragorn!"
+  ],
+  [
+    17891,
+    17912,
+    "74",
+    "GIMLI",
+    "Let's find some food."
+  ],
+  [
+    17912,
+    18045,
+    "76",
+    "MERRY",
+    "Sorry, it isn't all that dangerous.  It isn't even sharp. Well, that's no good, you won't kill many Orcs with a blunt blade. Come on."
+  ],
+  [
+    18045,
+    18066,
+    "78",
+    "GANDALF",
+    "To the Black Ships..."
+  ],
+  [
+    18066,
+    18139,
+    "78",
+    "ARWEN",
+    "I choose a mortal life ... I wish I could have seen him, one last time..."
+  ],
+  [
+    18139,
+    18172,
+    "78",
+    "GUARD",
+    "King Th\u00e9oden awaits you, My Lord."
+  ],
+  [
+    18172,
+    18188,
+    "80",
+    "TH\u00c9ODEN",
+    "I take my leave."
+  ],
+  [
+    18188,
+    18203,
+    "80",
+    "ARAGORN",
+    "My Lord Elrond."
+  ],
+  [
+    18203,
+    18239,
+    "80",
+    "ELROND",
+    "I come on behalf of one whom I love."
+  ],
+  [
+    18239,
+    18254,
+    "80",
+    "ELROND",
+    "Arwen is dying."
+  ],
+  [
+    18254,
+    18265,
+    "80",
+    "ARAGORN",
+    "She stayed?"
+  ],
+  [
+    18265,
+    18329,
+    "80",
+    "ELROND",
+    "She will not long survive the evil that now spreads from Mordor."
+  ],
+  [
+    18329,
+    18511,
+    "80",
+    "ELROND",
+    "The light of the Evenstar is failing. As Sauron's power grows, her strength wanes. Arwen's life is now tied to the fate of the Ring. The Shadow is upon us, Aragorn, the end has come."
+  ],
+  [
+    18511,
+    18543,
+    "80",
+    "ARAGORN",
+    "It will not be our end, but his."
+  ],
+  [
+    18543,
+    18704,
+    "80",
+    "ELROND",
+    "You ride to war, but not to victory. Sauron's armies march on Minas Tirith this you know but in secret he sends another force which will attack from the river..."
+  ],
+  [
+    18704,
+    18750,
+    "80",
+    "ELROND",
+    "A fleet of Corsair ships sails from the South."
+  ],
+  [
+    18750,
+    18835,
+    "80",
+    "ELROND",
+    "They'll be in the city in two days... You're outnumbered, Aragorn. You need more men."
+  ],
+  [
+    18835,
+    18850,
+    "80",
+    "ARAGORN",
+    "There are none."
+  ],
+  [
+    18850,
+    18892,
+    "80",
+    "ELROND",
+    "There are those who dwell in the mountain."
+  ],
+  [
+    18892,
+    18994,
+    "80",
+    "ARAGORN",
+    "Murderers, traitors You would call upon them to fight? They believe in nothing. They answer to no one."
+  ],
+  [
+    18994,
+    19033,
+    "80",
+    "ELROND",
+    "They will answer to the King of Gondor."
+  ],
+  [
+    19033,
+    19094,
+    "80",
+    "ELROND",
+    "And\u00faril, flame of the West, forged from the Shards of Narsil."
+  ],
+  [
+    19094,
+    19148,
+    "80",
+    "ARAGORN",
+    "Sauron will not have forgotten the Sword of Elendil..."
+  ],
+  [
+    19148,
+    19206,
+    "80",
+    "ARAGORN",
+    "...the blade that was broken shall return to Minas Tirith."
+  ],
+  [
+    19206,
+    19321,
+    "80",
+    "ELROND",
+    "The man who can wield the power of this sword can summon to him an army more deadly than any that walks this earth."
+  ],
+  [
+    19321,
+    19395,
+    "80",
+    "ELROND",
+    "Put aside the Ranger become who you were born to be take the Dimholt road."
+  ],
+  [
+    19395,
+    19434,
+    "80",
+    "ELROND",
+    "\u00d3nen i Estel Edain. I give hope to Men."
+  ],
+  [
+    19434,
+    19478,
+    "80",
+    "ARAGORN",
+    "\u00da chebin estel anim. I keep none for myself."
+  ],
+  [
+    19478,
+    19503,
+    "81",
+    "ARAGORN",
+    "\u00c9owyn... We need you here"
+  ],
+  [
+    19503,
+    19539,
+    "81",
+    "ARAGORN",
+    "Why have you come?  Do you not know?"
+  ],
+  [
+    19539,
+    19622,
+    "81",
+    "ARAGORN",
+    "It is but a shadow and a thought that you love ... I cannot give you what you seek."
+  ],
+  [
+    19622,
+    19660,
+    "82",
+    "GIMLI",
+    "Just where do you think you're off to?"
+  ],
+  [
+    19660,
+    19713,
+    "82",
+    "ARAGORN",
+    "Not this time ... This time you must stay, my friend."
+  ],
+  [
+    19713,
+    19768,
+    "82",
+    "LEGOLAS",
+    "Have you learnt nothing of the stubbornness of Dwarves?"
+  ],
+  [
+    19768,
+    19825,
+    "82",
+    "GIMLI",
+    "You might as well accept it we're going with you, laddie."
+  ],
+  [
+    19825,
+    19838,
+    "83",
+    "GAMLING",
+    "Lord Aragorn!"
+  ],
+  [
+    19838,
+    19877,
+    "83",
+    "ROHAN",
+    "Why does he leave on the eve of battle?"
+  ],
+  [
+    19877,
+    19912,
+    "83",
+    "GAMLING",
+    "He leaves because there is no hope."
+  ],
+  [
+    19912,
+    19938,
+    "83",
+    "TH\u00c9ODEN",
+    "He leaves because he must."
+  ],
+  [
+    19938,
+    19995,
+    "83",
+    "GAMLING",
+    "Too few have come. We cannot defeat the armies of Mordor."
+  ],
+  [
+    19995,
+    20058,
+    "83",
+    "TH\u00c9ODEN",
+    "No, we cannot...  But we will meet them in battle, nonetheless."
+  ],
+  [
+    20058,
+    20269,
+    "84",
+    "TH\u00c9ODEN",
+    "I have left instruction the people are to follow your rule in my stead ... take up my seat in the Golden Hall ... long may you defend Edoras if the battle goes ill. What other duty would you have me do, My Lord?"
+  ],
+  [
+    20269,
+    20352,
+    "84",
+    "TH\u00c9ODEN",
+    "Duty? ...No, I would have you smile again not grieve for those whose time has come."
+  ],
+  [
+    20352,
+    20393,
+    "84",
+    "TH\u00c9ODEN",
+    "You shall live to see these days renewed."
+  ],
+  [
+    20393,
+    20409,
+    "84",
+    "TH\u00c9ODEN",
+    "No more despair."
+  ],
+  [
+    20409,
+    20459,
+    "85",
+    "GIMLI",
+    "What kind of an army would linger in such a place?"
+  ],
+  [
+    20459,
+    20780,
+    "85",
+    "LEGOLAS",
+    "One that is cursed ... Long ago the Men of the Mountain swore an oath to the last King of Gondor to come to his aid, to fight, but when the time came, when Gondor's need was dire, they fled ... Vanishing into the darkness of the mountain ... And so Isildur cursed them never to rest until they had fulfilled their pledge."
+  ],
+  [
+    20780,
+    20826,
+    "86",
+    "GIMLI",
+    "The very warmth of my blood seems stolen away."
+  ],
+  [
+    20826,
+    20916,
+    "86",
+    "LEGOLAS",
+    "The way is shut. It was made by those who are dead, and the Dead keep it. The way is shut."
+  ],
+  [
+    20916,
+    20922,
+    "86",
+    "ARAGORN",
+    "Brego!"
+  ],
+  [
+    20922,
+    20942,
+    "86",
+    "ARAGORN",
+    "I do not fear death!"
+  ],
+  [
+    20942,
+    21063,
+    "86",
+    "GIMLI",
+    "Well, this is a thing unheard of ... An Elf will go underground when a Dwarf dare not.  Oh! I'd never hear the end of it!"
+  ],
+  [
+    21063,
+    21184,
+    "88",
+    "TH\u00c9ODEN",
+    "We must ride light and swift. It's a long road ahead ... and man and beast must reach the end with the strength to fight."
+  ],
+  [
+    21184,
+    21237,
+    "88",
+    "TH\u00c9ODEN",
+    "Little Hobbits do not belong in war, Master Meriadoc."
+  ],
+  [
+    21237,
+    21310,
+    "88",
+    "MERRY",
+    "All my friends have gone to battle. I would be ashamed to be left behind!"
+  ],
+  [
+    21310,
+    21394,
+    "88",
+    "TH\u00c9ODEN",
+    "It's a three day gallop to Minas Tirith. None of my Riders can bear you as a burden."
+  ],
+  [
+    21394,
+    21418,
+    "88",
+    "MERRY",
+    "But ... I want to fight!"
+  ],
+  [
+    21418,
+    21452,
+    "88",
+    "TH\u00c9ODEN",
+    "I will say no more.  Ride with me."
+  ],
+  [
+    21452,
+    21480,
+    "88",
+    "MERRY",
+    "My Lady!  Move out move out!"
+  ],
+  [
+    21480,
+    21507,
+    "88",
+    "TH\u00c9ODEN",
+    "Ride! Ride now, for Gondor!"
+  ],
+  [
+    21507,
+    21528,
+    "91",
+    "KING",
+    "Who enters my domain?"
+  ],
+  [
+    21528,
+    21562,
+    "91",
+    "ARAGORN",
+    "One who will have your allegiance."
+  ],
+  [
+    21562,
+    21606,
+    "91",
+    "KING",
+    "The Dead do not suffer the living to pass..."
+  ],
+  [
+    21606,
+    21625,
+    "91",
+    "ARAGORN",
+    "You will suffer me!"
+  ],
+  [
+    21625,
+    21643,
+    "91",
+    "KING",
+    "The way is shut..."
+  ],
+  [
+    21643,
+    21700,
+    "91",
+    "KING",
+    "It was made by those who are Dead and the Dead keep it..."
+  ],
+  [
+    21700,
+    21735,
+    "91",
+    "KING",
+    "The way is shut. Now, you must die."
+  ],
+  [
+    21735,
+    21769,
+    "91",
+    "ARAGORN",
+    "I summon you to fulfill your oath!"
+  ],
+  [
+    21769,
+    21812,
+    "91",
+    "KING",
+    "None but the King of Gondor may command me!"
+  ],
+  [
+    21812,
+    21846,
+    "91",
+    "KING",
+    "It cannot be that line was broken!"
+  ],
+  [
+    21846,
+    21865,
+    "91",
+    "ARAGORN",
+    "It has been remade!"
+  ],
+  [
+    21865,
+    21900,
+    "91",
+    "ARAGORN",
+    "Fight for us and regain your honor!"
+  ],
+  [
+    21900,
+    21913,
+    "91",
+    "ARAGORN",
+    "What say you?"
+  ],
+  [
+    21913,
+    21926,
+    "91",
+    "ARAGORN",
+    "What say you?"
+  ],
+  [
+    21926,
+    22023,
+    "91",
+    "GIMLI",
+    "Aghh! You're wasting your time, Aragorn! They had no honour in life, they have none now in death."
+  ],
+  [
+    22023,
+    22107,
+    "91",
+    "ARAGORN",
+    "I am Isildur's heir. Fight for me and I will hold your oath fulfilled. What say you?"
+  ],
+  [
+    22107,
+    22128,
+    "93",
+    "GATE",
+    "Open the gate! Quick!"
+  ],
+  [
+    22128,
+    22141,
+    "93",
+    "IORLAS",
+    "Lord Faramir!"
+  ],
+  [
+    22141,
+    22149,
+    "95",
+    "DENETHOR",
+    "Faramir!"
+  ],
+  [
+    22149,
+    22178,
+    "95",
+    "DENETHOR",
+    "Say not that he has fallen..."
+  ],
+  [
+    22178,
+    22215,
+    "95",
+    "IORLAS",
+    "They were outnumbered, none survived."
+  ],
+  [
+    22215,
+    22293,
+    "96",
+    "GOTHMOG",
+    "Fear! The city is rank with it. Let us ease their pain. Release the prisoners!"
+  ],
+  [
+    22293,
+    22303,
+    "96",
+    "LIEUTENANT",
+    "Catapults!"
+  ],
+  [
+    22303,
+    22337,
+    "98",
+    "DENETHOR",
+    "My son is dead. My line has ended."
+  ],
+  [
+    22337,
+    22348,
+    "98",
+    "PIPPIN",
+    "He's alive!"
+  ],
+  [
+    22348,
+    22384,
+    "98",
+    "DENETHOR",
+    "The House of Stewards has failed!..."
+  ],
+  [
+    22384,
+    22411,
+    "98",
+    "PIPPIN",
+    "He needs medicine, My Lord!"
+  ],
+  [
+    22411,
+    22429,
+    "98",
+    "DENETHOR",
+    "My line has ended."
+  ],
+  [
+    22429,
+    22437,
+    "98",
+    "PIPPIN",
+    "My Lord!"
+  ],
+  [
+    22437,
+    22459,
+    "98",
+    "DENETHOR",
+    "Rohan has deserted us."
+  ],
+  [
+    22459,
+    22481,
+    "98",
+    "DENETHOR",
+    "Th\u00e9oden's betrayed me."
+  ],
+  [
+    22481,
+    22500,
+    "98",
+    "DENETHOR",
+    "Abandon your posts!"
+  ],
+  [
+    22500,
+    22526,
+    "98",
+    "DENETHOR",
+    "Flee! Flee for your lives!"
+  ],
+  [
+    22526,
+    22545,
+    "98",
+    "GANDALF",
+    "Prepare for battle!"
+  ],
+  [
+    22545,
+    22566,
+    "99",
+    "GANDALF",
+    "Return to your posts!"
+  ],
+  [
+    22566,
+    22604,
+    "100",
+    "GANDALF",
+    "Send these foul beasts into the abyss!"
+  ],
+  [
+    22604,
+    22623,
+    "102",
+    "GOTHMOG",
+    "Stay where you are!"
+  ],
+  [
+    22623,
+    22674,
+    "105",
+    "GANDALF",
+    "Stand to your posts! Do not give in to fear. Fight!"
+  ],
+  [
+    22674,
+    22746,
+    "105",
+    "GANDALF",
+    "Not at the towers! Aim for the Trolls! Kill the Trolls! Bring them down!"
+  ],
+  [
+    22746,
+    22783,
+    "105",
+    "GANDALF",
+    "Peregrin Took go back to the citadel!"
+  ],
+  [
+    22783,
+    22813,
+    "105",
+    "PIPPIN",
+    "They called us out to fight..."
+  ],
+  [
+    22813,
+    22843,
+    "105",
+    "GANDALF",
+    "This is no place for a Hobbit!"
+  ],
+  [
+    22843,
+    22912,
+    "105",
+    "GANDALF",
+    "Guard of the Citadel, indeed! Now, back up the hill quickly! Quickly!"
+  ],
+  [
+    22912,
+    22932,
+    "106",
+    "ORCS",
+    "Grond! Grond! Grond!"
+  ],
+  [
+    22932,
+    22951,
+    "108",
+    "FRODO",
+    "What is this place?"
+  ],
+  [
+    22951,
+    22984,
+    "108",
+    "GOLLUM",
+    "Master must go inside the tunnel."
+  ],
+  [
+    22984,
+    23027,
+    "108",
+    "FRODO",
+    "Now that I'm here, I don't think I want to."
+  ],
+  [
+    23027,
+    23065,
+    "108",
+    "SM\u00c9AGOL",
+    "It's the only way.  Go in, or go back."
+  ],
+  [
+    23065,
+    23081,
+    "108",
+    "FRODO",
+    "I can't go back."
+  ],
+  [
+    23081,
+    23099,
+    "109",
+    "FRODO",
+    "What's that smell?"
+  ],
+  [
+    23099,
+    23143,
+    "109",
+    "GOLLUM",
+    "Orcses filth! Orcses come in here sometimes."
+  ],
+  [
+    23143,
+    23149,
+    "109",
+    "GOLLUM",
+    "Hurry!"
+  ],
+  [
+    23149,
+    23158,
+    "109",
+    "GOLLUM",
+    "This way."
+  ],
+  [
+    23158,
+    23166,
+    "109",
+    "FRODO",
+    "Sm\u00e9agol!"
+  ],
+  [
+    23166,
+    23176,
+    "109",
+    "GOLLUM",
+    "Over here."
+  ],
+  [
+    23176,
+    23203,
+    "109",
+    "FRODO",
+    "It's sticky ... What is it?"
+  ],
+  [
+    23203,
+    23245,
+    "109",
+    "GOLLUM",
+    "You will see ... Oh, yes ... You will see."
+  ],
+  [
+    23245,
+    23262,
+    "109",
+    "FRODO",
+    "Sm\u00e9agol! Sm\u00e9agol!"
+  ],
+  [
+    23262,
+    23270,
+    "109",
+    "FRODO",
+    "Sm\u00e9agol!"
+  ],
+  [
+    23270,
+    23274,
+    "109",
+    "FRODO",
+    "Sam."
+  ],
+  [
+    23274,
+    23401,
+    "111",
+    "GALADRIEL",
+    "I give you the light of E\u00e4rendil our most beloved star. May it be a light for you in dark places, when all other lights go out."
+  ],
+  [
+    23401,
+    23470,
+    "111",
+    "FRODO",
+    "Aiya E\u00e4rendil Elenion Ancalima! Hail E\u00e4rendil brightest of the Stars!"
+  ],
+  [
+    23470,
+    23506,
+    "111",
+    "GOLLUM",
+    "Naughty little fly, Why does it cry?"
+  ],
+  [
+    23506,
+    23552,
+    "111",
+    "GOLLUM",
+    "Caught in her web, Soon you'll be... ...Eaten!"
+  ],
+  [
+    23552,
+    23608,
+    "112",
+    "GOLLUM",
+    "Got away did it, Precious? Not this time, not this time!"
+  ],
+  [
+    23608,
+    23665,
+    "112",
+    "SM\u00c9AGOL",
+    "It wasn't us! It wasn't us! Sm\u00e9agol wouldn't hurt master."
+  ],
+  [
+    23665,
+    23752,
+    "112",
+    "SM\u00c9AGOL",
+    "Sm\u00e9agol promised. You must believe us. It was the Precious! The Precious made us do it!"
+  ],
+  [
+    23752,
+    23823,
+    "112",
+    "FRODO",
+    "I have to destroy it, Sm\u00e9agol. I have to destroy it for both our sakes."
+  ],
+  [
+    23823,
+    23841,
+    "113",
+    "FRODO",
+    "I'm so sorry, Sam."
+  ],
+  [
+    23841,
+    23855,
+    "113",
+    "FRODO",
+    "...so sorry..."
+  ],
+  [
+    23855,
+    23948,
+    "114",
+    "GALADRIEL",
+    "This task was appointed to you, Frodo of the Shire. If you do not find a way ... no one will."
+  ],
+  [
+    23948,
+    23976,
+    "115",
+    "GANDALF",
+    "To the Gates! Man the Gates!"
+  ],
+  [
+    23976,
+    24095,
+    "117",
+    "DENETHOR",
+    "No tomb for Denethor and Faramir. No long, slow, sleep of death embalmed. We shall burn, like the heathen kings of old."
+  ],
+  [
+    24095,
+    24114,
+    "117",
+    "DENETHOR",
+    "Bring wood and oil!"
+  ],
+  [
+    24114,
+    24129,
+    "118",
+    "GANDALF",
+    "Steady! Steady!"
+  ],
+  [
+    24129,
+    24223,
+    "118",
+    "GANDALF",
+    "You are soldiers of Gondor! No matter what comes through that gate you will stand your ground!"
+  ],
+  [
+    24223,
+    24228,
+    "118",
+    "GANDALF",
+    "Fire!"
+  ],
+  [
+    24228,
+    24250,
+    "119",
+    "SAM",
+    "Let him go, you filth!"
+  ],
+  [
+    24250,
+    24279,
+    "119",
+    "SAM",
+    "You will not touch him again!"
+  ],
+  [
+    24279,
+    24301,
+    "119",
+    "SAM",
+    "Come on and finish it!"
+  ],
+  [
+    24301,
+    24311,
+    "119",
+    "SAM",
+    "Mr. Frodo!"
+  ],
+  [
+    24311,
+    24324,
+    "119",
+    "SAM",
+    "Oh no! Frodo!"
+  ],
+  [
+    24324,
+    24343,
+    "119",
+    "SAM",
+    "Mr. Frodo! Wake up!"
+  ],
+  [
+    24343,
+    24421,
+    "119",
+    "SAM",
+    "Wake up ... don't leave me here alone. Don't go where I can't follow. Wake up!"
+  ],
+  [
+    24421,
+    24441,
+    "119",
+    "SAM",
+    "Not asleep ... Dead."
+  ],
+  [
+    24441,
+    24503,
+    "119",
+    "GORBAG",
+    "What's this? Looks like Old Shelob's been having a bit of fun!"
+  ],
+  [
+    24503,
+    24531,
+    "119",
+    "SHAGRAT",
+    "Killed another one, has she?"
+  ],
+  [
+    24531,
+    24561,
+    "119",
+    "GORBAG",
+    "No ... this fellow ain't dead."
+  ],
+  [
+    24561,
+    24570,
+    "119",
+    "SAM",
+    "Not dead!"
+  ],
+  [
+    24570,
+    24733,
+    "119",
+    "SHAGRAT",
+    "She jabs him with her stinger and they go as limp as a boned fish. Then she has her way with them. That's how she likes to feed fresh blood.  Get him to the Tower!"
+  ],
+  [
+    24733,
+    24751,
+    "119",
+    "SAM",
+    "Samwise, you fool!"
+  ],
+  [
+    24751,
+    24792,
+    "119",
+    "ORC",
+    "This fellow will be awake in a few hours."
+  ],
+  [
+    24792,
+    24829,
+    "119",
+    "GORBAG",
+    "Then he'll wish he'd never been born."
+  ],
+  [
+    24829,
+    24897,
+    "120",
+    "DENETHOR",
+    "The house of his spirit crumbles! He is burning ... already burning."
+  ],
+  [
+    24897,
+    24926,
+    "120",
+    "PIPPIN",
+    "He's not dead! He's not dead!"
+  ],
+  [
+    24926,
+    24956,
+    "120",
+    "PIPPIN",
+    "No! No! No! He's not dead. No!"
+  ],
+  [
+    24956,
+    25027,
+    "120",
+    "DENETHOR",
+    "Hear now, Peregrin, son of Paladin ... I release you from my service..."
+  ],
+  [
+    25027,
+    25072,
+    "120",
+    "DENETHOR",
+    "Go now and die in what way seems best to you."
+  ],
+  [
+    25072,
+    25093,
+    "120",
+    "DENETHOR",
+    "Pour oil on the wood!"
+  ],
+  [
+    25093,
+    25114,
+    "121",
+    "PIPPIN",
+    "Gandalf? ... Gandalf?"
+  ],
+  [
+    25114,
+    25204,
+    "121",
+    "GANDALF",
+    "Pull back to the second level! Hurry! Get the women and children out of here get them out!"
+  ],
+  [
+    25204,
+    25249,
+    "122",
+    "GOTHMOG",
+    "Move into the city ... Kill all in your path."
+  ],
+  [
+    25249,
+    25277,
+    "123",
+    "GANDALF",
+    "Fight! Fight for your lives!"
+  ],
+  [
+    25277,
+    25344,
+    "124",
+    "GOTHMOG",
+    "Form ranks, you maggots! Form ranks! Pikes in front, lances behind."
+  ],
+  [
+    25344,
+    25529,
+    "124",
+    "TH\u00c9ODEN",
+    "\u00c9omer, take your \u00c9ored down the left flank ... Gamling! Follow the King's banner down the centre. Grimbold, take your company right, after we pass the wall. Forth, and fear no darkness!"
+  ],
+  [
+    25529,
+    25715,
+    "124",
+    "TH\u00c9ODEN",
+    "Arise, arise, Riders of Th\u00e9oden! Spears shall be shaken, shields shall be splintered ... A sword day, a red day , ere the sun rises!  Whatever happens, stay with me. I'll look after you."
+  ],
+  [
+    25715,
+    25779,
+    "124",
+    "TH\u00c9ODEN",
+    "Ride now, ride now, ride, ride for ruin, and the world's ending!"
+  ],
+  [
+    25779,
+    25785,
+    "124",
+    "TH\u00c9ODEN",
+    "Death!"
+  ],
+  [
+    25785,
+    25791,
+    "124",
+    "ROHIRRIM",
+    "Death!"
+  ],
+  [
+    25791,
+    25797,
+    "124",
+    "TH\u00c9ODEN",
+    "Death!"
+  ],
+  [
+    25797,
+    25810,
+    "124",
+    "MERRY",
+    "Death! Death!"
+  ],
+  [
+    25810,
+    25834,
+    "124",
+    "TH\u00c9ODEN",
+    "Death! Forth, Eorlingas!"
+  ],
+  [
+    25834,
+    25839,
+    "124",
+    "GOTHMOG",
+    "Fire!"
+  ],
+  [
+    25839,
+    25846,
+    "124",
+    "TH\u00c9ODEN",
+    "Charge!"
+  ],
+  [
+    25846,
+    25854,
+    "125",
+    "PIPPIN",
+    "Gandalf!"
+  ],
+  [
+    25854,
+    25909,
+    "125",
+    "PIPPIN",
+    "Denethor has lost his mind. He's burning Faramir alive!"
+  ],
+  [
+    25909,
+    25923,
+    "125",
+    "GANDALF",
+    "Come! Quickly!"
+  ],
+  [
+    25923,
+    25947,
+    "127",
+    "DENETHOR",
+    "Set a fire in our flesh!"
+  ],
+  [
+    25947,
+    25965,
+    "127",
+    "GANDALF",
+    "Stay this madness!"
+  ],
+  [
+    25965,
+    25996,
+    "127",
+    "DENETHOR",
+    "No! Do not take my son from me!"
+  ],
+  [
+    25996,
+    26006,
+    "127",
+    "DENETHOR",
+    "Faramir..."
+  ],
+  [
+    26006,
+    26043,
+    "127",
+    "GANDALF",
+    "So passes Denethor, Son of Ecthelion."
+  ],
+  [
+    26043,
+    26062,
+    "129",
+    "TH\u00c9ODEN",
+    "Make safe the city!"
+  ],
+  [
+    26062,
+    26096,
+    "129",
+    "TH\u00c9ODEN",
+    "Reform the line...Reform the line!"
+  ],
+  [
+    26096,
+    26113,
+    "129",
+    "TH\u00c9ODEN",
+    "Sound the charge!"
+  ],
+  [
+    26113,
+    26123,
+    "129",
+    "TH\u00c9ODEN",
+    "...Charge!"
+  ],
+  [
+    26123,
+    26162,
+    "131",
+    "PIPPIN",
+    "I didn't think it would end this way..."
+  ],
+  [
+    26162,
+    26200,
+    "131",
+    "GANDALF",
+    "End? No, the journey doesn't end here."
+  ],
+  [
+    26200,
+    26254,
+    "131",
+    "GANDALF",
+    "Death is just another path, one that we all must take."
+  ],
+  [
+    26254,
+    26358,
+    "131",
+    "GANDALF",
+    "The grey rain curtain of this world rolls back, and all turns to silver glass...  and then you see it..."
+  ],
+  [
+    26358,
+    26382,
+    "131",
+    "PIPPIN",
+    "What, Gandalf? See what?"
+  ],
+  [
+    26382,
+    26455,
+    "131",
+    "GANDALF",
+    "White shores ... And beyond... a far green country under a swift sunrise."
+  ],
+  [
+    26455,
+    26479,
+    "131",
+    "PIPPIN",
+    "Well, that isn't so bad."
+  ],
+  [
+    26479,
+    26498,
+    "131",
+    "GANDALF",
+    "No... No, it isn't."
+  ],
+  [
+    26498,
+    26517,
+    "132",
+    "TH\u00c9ODEN",
+    "Rally to me! To me!"
+  ],
+  [
+    26517,
+    26570,
+    "132",
+    "WITCH",
+    "Feast on his flesh! I will kill you if you touch him!"
+  ],
+  [
+    26570,
+    26614,
+    "132",
+    "WITCH",
+    "Do not come between the Nazg\u00fbl and his prey!"
+  ],
+  [
+    26614,
+    26699,
+    "133",
+    "HEAD",
+    "Late as usual! Get off your ships, you sea rats! There's knife work here needs doing."
+  ],
+  [
+    26699,
+    26752,
+    "133",
+    "GIMLI",
+    "Plenty for the both of us ... may the best dwarf win!"
+  ],
+  [
+    26752,
+    26792,
+    "134",
+    "WITCH",
+    "No man can kill me ... Die! I am no man!"
+  ],
+  [
+    26792,
+    26822,
+    "134",
+    "GIMLI",
+    "That still only counts as one!"
+  ],
+  [
+    26822,
+    26851,
+    "134",
+    "TH\u00c9ODEN",
+    "I know your face ... \u00c9owyn..."
+  ],
+  [
+    26851,
+    26900,
+    "134",
+    "TH\u00c9ODEN",
+    "My eyes darken... No... I am going to save you..."
+  ],
+  [
+    26900,
+    26970,
+    "134",
+    "TH\u00c9ODEN",
+    "You already did...  My body is broken ... you have to let me go. No..."
+  ],
+  [
+    26970,
+    27049,
+    "134",
+    "TH\u00c9ODEN",
+    "I go to my fathers ... in whose mighty company, I shall not now feel ashamed..."
+  ],
+  [
+    27049,
+    27055,
+    "134",
+    "TH\u00c9ODEN",
+    "\u00c9owyn?"
+  ],
+  [
+    27055,
+    27066,
+    "135",
+    "KING",
+    "Release us."
+  ],
+  [
+    27066,
+    27146,
+    "135",
+    "GIMLI",
+    "Bad idea. Very handy in a tight spot, these lads despite the fact, they're dead!"
+  ],
+  [
+    27146,
+    27168,
+    "135",
+    "KING",
+    "You gave us your word."
+  ],
+  [
+    27168,
+    27214,
+    "135",
+    "ARAGORN",
+    "I hold your oath fulfilled... Go. Be at peace."
+  ],
+  [
+    27214,
+    27220,
+    "135",
+    "PIPPIN",
+    "Merry?"
+  ],
+  [
+    27220,
+    27253,
+    "135",
+    "PIPPIN",
+    "Merry ... it's me, it's Pippin..."
+  ],
+  [
+    27253,
+    27302,
+    "135",
+    "MERRY",
+    "I knew you'd find me.  Are you going to leave me?"
+  ],
+  [
+    27302,
+    27341,
+    "135",
+    "PIPPIN",
+    "No, Merry. I'm going to look after you."
+  ],
+  [
+    27341,
+    27386,
+    "137",
+    "SHAGRAT",
+    "Hey! Hands off that shiny shirt, that's mine."
+  ],
+  [
+    27386,
+    27442,
+    "137",
+    "GORBAG",
+    "It's going to the Great Eye, along with everything else."
+  ],
+  [
+    27442,
+    27488,
+    "137",
+    "SHAGRAT",
+    "I don't take orders from stinking Morgul rats!"
+  ],
+  [
+    27488,
+    27541,
+    "137",
+    "GORBAG",
+    "You touch it, and I'll stick this blade in your guts!"
+  ],
+  [
+    27541,
+    27578,
+    "138",
+    "SHAGRAT",
+    "The scum tried to knife me! Kill him!"
+  ],
+  [
+    27578,
+    27646,
+    "141",
+    "SAM",
+    "That's for Frodo!  And for the Shire!  And that's for my old Gaffer!"
+  ],
+  [
+    27646,
+    27684,
+    "142",
+    "GORBAG",
+    "Stop your squeaking, you dunghill rat!"
+  ],
+  [
+    27684,
+    27721,
+    "142",
+    "GORBAG",
+    "I'm gonna bleed you like a stuck pig!"
+  ],
+  [
+    27721,
+    27746,
+    "142",
+    "SAM",
+    "Not if I stick you first!"
+  ],
+  [
+    27746,
+    27752,
+    "142",
+    "FRODO",
+    "Sam!!!"
+  ],
+  [
+    27752,
+    27802,
+    "142",
+    "FRODO",
+    "Oh, Sam ... I'm so sorry ... sorry for everything."
+  ],
+  [
+    27802,
+    27810,
+    "142",
+    "SAM",
+    "Come on."
+  ],
+  [
+    27810,
+    27880,
+    "142",
+    "FRODO",
+    "It's too late. It's over ... they've taken it. Sam they took the Ring!"
+  ],
+  [
+    27880,
+    27918,
+    "142",
+    "SAM",
+    "Begging your pardon, but they haven't."
+  ],
+  [
+    27918,
+    27980,
+    "142",
+    "SAM",
+    "I thought I'd lost you ... so I took it only for safe keeping."
+  ],
+  [
+    27980,
+    27994,
+    "142",
+    "FRODO",
+    "Give it to me."
+  ],
+  [
+    27994,
+    28016,
+    "142",
+    "FRODO",
+    "Give me the Ring, Sam."
+  ],
+  [
+    28016,
+    28038,
+    "142",
+    "FRODO",
+    "Sam! Give me the Ring."
+  ],
+  [
+    28038,
+    28113,
+    "142",
+    "FRODO",
+    "You must understand ... The Ring is my burden ... It will destroy you, Sam."
+  ],
+  [
+    28113,
+    28226,
+    "142",
+    "SAM",
+    "Come on, Mr. Frodo, we'd best find you some clothes. You can't go walking through Mordor in naught but your skin."
+  ],
+  [
+    28226,
+    28269,
+    "143",
+    "SAM",
+    "We did it, Mr. Frodo. We made it to Mordor."
+  ],
+  [
+    28269,
+    28339,
+    "143",
+    "FRODO",
+    "There are so many of them ... So many. We'll never get through unseen."
+  ],
+  [
+    28339,
+    28356,
+    "143",
+    "FRODO",
+    "It's him the Eye."
+  ],
+  [
+    28356,
+    28470,
+    "143",
+    "SAM",
+    "We have to go in there, Mr. Frodo. There's nothing for it. Come on. Let's just make it down the hill for starters."
+  ],
+  [
+    28470,
+    28530,
+    "144",
+    "GANDALF",
+    "Frodo has passed beyond my sight. The darkness is deepening."
+  ],
+  [
+    28530,
+    28571,
+    "144",
+    "ARAGORN",
+    "If Sauron had the Ring, we would know it."
+  ],
+  [
+    28571,
+    28685,
+    "144",
+    "GANDALF",
+    "It's only a matter of time. He has suffered a defeat, yes, but behind the walls of Mordor our enemy is regrouping."
+  ],
+  [
+    28685,
+    28737,
+    "144",
+    "GIMLI",
+    "Let him stay there. Let him rot. Why should we care?"
+  ],
+  [
+    28737,
+    28802,
+    "144",
+    "GANDALF",
+    "Because ten thousand Orcs now stand between Frodo and Mount Doom."
+  ],
+  [
+    28802,
+    28829,
+    "144",
+    "GANDALF",
+    "I've sent him to his death."
+  ],
+  [
+    28829,
+    28832,
+    "144",
+    "ARAGORN",
+    "No."
+  ],
+  [
+    28832,
+    28946,
+    "144",
+    "ARAGORN",
+    "There's still hope for Frodo. He needs time and safe passage across the Plains of Gorgoroth. We can give him that."
+  ],
+  [
+    28946,
+    28950,
+    "144",
+    "GANDALF",
+    "How?"
+  ],
+  [
+    28950,
+    29105,
+    "144",
+    "ARAGORN",
+    "Draw out Sauron's armies empty his lands. Then we gather our full strength and march on the Black Gate. We cannot achieve victory through strength of arms."
+  ],
+  [
+    29105,
+    29237,
+    "144",
+    "ARAGORN",
+    "Not for ourselves ... But we can give Frodo his chance if we keep Sauron's eye fixed upon us. Keep him blind to all else that moves."
+  ],
+  [
+    29237,
+    29251,
+    "144",
+    "LEGOLAS",
+    "A diversion..."
+  ],
+  [
+    29251,
+    29305,
+    "144",
+    "GANDALF",
+    "Sauron will suspect a trap. He will not take the bait!"
+  ],
+  [
+    29305,
+    29374,
+    "144",
+    "GIMLI",
+    "Certainty of death. Small chance of success. What are we waiting for?"
+  ],
+  [
+    29374,
+    29447,
+    "147",
+    "SAM",
+    "Look, the Orcs! They're moving off. You see, Mr. Frodo some luck at last."
+  ],
+  [
+    29447,
+    29486,
+    "150",
+    "SAM",
+    "Take mine ... there's a few drops left."
+  ],
+  [
+    29486,
+    29531,
+    "150",
+    "FRODO",
+    "There'll be none left for the return journey."
+  ],
+  [
+    29531,
+    29590,
+    "150",
+    "SAM",
+    "I don't think there will be a return journey, Mister Frodo."
+  ],
+  [
+    29590,
+    29606,
+    "152",
+    "SAM",
+    "Frodo, get down!"
+  ],
+  [
+    29606,
+    29621,
+    "153",
+    "PIPPIN",
+    "Where are they?"
+  ],
+  [
+    29621,
+    29693,
+    "155",
+    "ARAGORN",
+    "Let the lord of the Black Land come forth; let justice be done upon him."
+  ],
+  [
+    29693,
+    29714,
+    "157",
+    "ARAGORN",
+    "Pull back! Pull back!"
+  ],
+  [
+    29714,
+    29735,
+    "158",
+    "SAM",
+    "It's gone, Mr. Frodo."
+  ],
+  [
+    29735,
+    29812,
+    "158",
+    "SAM",
+    "The light's passed on, away towards the North ... something's drawn its gaze."
+  ],
+  [
+    29812,
+    29887,
+    "159",
+    "ARAGORN",
+    "Hold your ground hold your ground! Sons of Gondor of Rohan ... my brothers!"
+  ],
+  [
+    29887,
+    30271,
+    "159",
+    "ARAGORN",
+    "I see in your eyes the same fear that would take the heart of me. A day may come when the courage of Men fails; when we forsake our friends and break all bonds of fellowship; but it is not this day an hour of wolves and shattered shields, when the Age of Men comes crashing down but it is not this day!! This day we fight! By all that you hold dear on this good earth I bid you stand!"
+  ],
+  [
+    30271,
+    30287,
+    "159",
+    "ARAGORN",
+    "Men of the West!"
+  ],
+  [
+    30287,
+    30343,
+    "163",
+    "GIMLI",
+    "Never thought I'd die fighting side by side with an elf."
+  ],
+  [
+    30343,
+    30381,
+    "163",
+    "LEGOLAS",
+    "What about side by side with a friend?"
+  ],
+  [
+    30381,
+    30401,
+    "163",
+    "GIMLI",
+    "Aye I could do that."
+  ],
+  [
+    30401,
+    30711,
+    "164",
+    "SAM",
+    "Do you remember the Shire, Mr. Frodo? ... It'll be spring soon, and the orchards will be in blossom; and the birds will be nesting in the hazel thicket; and they'll be sowing the summer barley in the lower fields; and eating the first of the strawberries with cream.  Do you remember the taste of strawberries?"
+  ],
+  [
+    30711,
+    30913,
+    "164",
+    "FRODO",
+    "No, Sam. I can't recall the taste of food; nor the sound of water; nor the touch of grass ... I'm naked in the dark.  There's no veil between me and the wheel of fire. I can see him with my waking eyes!"
+  ],
+  [
+    30913,
+    31034,
+    "164",
+    "SAM",
+    "Then let us be rid of it once and for all! Come on, Mr. Frodo. I can't carry it for you ... but I can carry you! Come on!"
+  ],
+  [
+    31034,
+    31046,
+    "165",
+    "ARAGORN",
+    "For Frodo..."
+  ],
+  [
+    31046,
+    31082,
+    "166",
+    "SAM",
+    "Look, Mr. Frodo! We're almost there!"
+  ],
+  [
+    31082,
+    31114,
+    "166",
+    "GOLLUM",
+    "Clever Hobbits to climb so high!"
+  ],
+  [
+    31114,
+    31120,
+    "168",
+    "SAM",
+    "Frodo!"
+  ],
+  [
+    31120,
+    31129,
+    "169",
+    "PIPPIN",
+    "Eagles..."
+  ],
+  [
+    31129,
+    31174,
+    "169",
+    "PIPPIN",
+    "The Eagles are coming! The Eagles are coming!"
+  ],
+  [
+    31174,
+    31180,
+    "171",
+    "SAM",
+    "Frodo!"
+  ],
+  [
+    31180,
+    31194,
+    "172",
+    "FRODO",
+    "I'm here, Sam."
+  ],
+  [
+    31194,
+    31233,
+    "172",
+    "SAM",
+    "Destroy it go on! Throw it in the fire!"
+  ],
+  [
+    31233,
+    31274,
+    "172",
+    "SAM",
+    "What are you waiting for? Just let it go!"
+  ],
+  [
+    31274,
+    31291,
+    "172",
+    "FRODO",
+    "The Ring is mine."
+  ],
+  [
+    31291,
+    31294,
+    "172",
+    "SAM",
+    "No!"
+  ],
+  [
+    31294,
+    31313,
+    "180",
+    "GOLLUM",
+    "Precious! Precious!"
+  ],
+  [
+    31313,
+    31331,
+    "182",
+    "SAM",
+    "Give me your hand."
+  ],
+  [
+    31331,
+    31344,
+    "182",
+    "SAM",
+    "Take my hand!"
+  ],
+  [
+    31344,
+    31347,
+    "182",
+    "SAM",
+    "No!"
+  ],
+  [
+    31347,
+    31388,
+    "182",
+    "SAM",
+    "Don't you let go! Don't let go.  Reach!!!"
+  ],
+  [
+    31388,
+    31412,
+    "186",
+    "FRODO",
+    "It's gone ... it's done."
+  ],
+  [
+    31412,
+    31445,
+    "186",
+    "SAM",
+    "Yes, Mr. Frodo ... it's over now."
+  ],
+  [
+    31445,
+    31555,
+    "186",
+    "FRODO",
+    "I can see the Shire ... The Brandywine River, Bag End, Gandalf's fireworks ... the lights in the Party Tree..."
+  ],
+  [
+    31555,
+    31700,
+    "186",
+    "SAM",
+    "Rosie Cotton dancing ... she had ribbons in her hair...  ...if ever I was to marry someone ... it would have been her ... it would have been her."
+  ],
+  [
+    31700,
+    31771,
+    "186",
+    "FRODO",
+    "I'm glad to be with you, Samwise Gamgee, here at the end of all things."
+  ],
+  [
+    31771,
+    31779,
+    "187",
+    "FRODO",
+    "Gandalf?"
+  ],
+  [
+    31779,
+    31811,
+    "188",
+    "GANDALF",
+    "Now come the days of the King..."
+  ],
+  [
+    31811,
+    31831,
+    "188",
+    "GANDALF",
+    "May they be blessed."
+  ],
+  [
+    31831,
+    31953,
+    "188",
+    "ARAGORN",
+    "This day does not belong to one man but to all. Let us together rebuild this world that we may share in the days of peace."
+  ],
+  [
+    31953,
+    32149,
+    "188",
+    "ARAGORN",
+    "Et E\u00e4rello Endorenna ut\u00falien. Sinome maruvan ar Hildinyar tenn' Ambar metta. Out of the Great Sea to Middle earth I am come. In this place will I abide, and my heirs, unto the ending of the world."
+  ],
+  [
+    32149,
+    32170,
+    "188",
+    "ARAGORN",
+    "Hannon le. Thank you."
+  ],
+  [
+    32170,
+    32203,
+    "188",
+    "ARAGORN",
+    "My friends ... you bow to no one."
+  ],
+  [
+    32203,
+    32417,
+    "189",
+    "FRODO",
+    "And thus it was a Fourth Age of Middle earth began, and the Fellowship of the Ring, though eternally bound by friendship and love, was ended. Thirteen months to the day, since Gandalf sent us on our long journey..."
+  ],
+  [
+    32417,
+    32485,
+    "190",
+    "FRODO",
+    "...we found ourselves looking upon a familiar site ... We were home!"
+  ],
+  [
+    32485,
+    32713,
+    "193",
+    "FRODO",
+    "How do you pick up the threads of an old life? How do you go on, when in your heart you begin to understand. There is no going back. There are some things that time cannot mend. Some hurts that go too deep. That have taken hold."
+  ],
+  [
+    32713,
+    32723,
+    "193",
+    "SAM",
+    "Mr. Frodo?"
+  ],
+  [
+    32723,
+    32734,
+    "193",
+    "SAM",
+    "What is it?"
+  ],
+  [
+    32734,
+    32814,
+    "193",
+    "FRODO",
+    "It's been four years to the day since Weathertop, Sam. It's never really healed."
+  ],
+  [
+    32814,
+    32872,
+    "193",
+    "SAM",
+    "There and Back Again ... A Hobbit's Tale, by Bilbo Baggins"
+  ],
+  [
+    32872,
+    32942,
+    "193",
+    "SAM",
+    "... And The Lord of the Rings, by Frodo Baggins .  You've finished it!"
+  ],
+  [
+    32942,
+    32987,
+    "193",
+    "FRODO",
+    "Not quite ... There's room for a little more."
+  ],
+  [
+    32987,
+    33172,
+    "194",
+    "FRODO",
+    "Bilbo once told me, the great stories never end that each of us must come and go in the telling. His part in this tale was now over. There would be no more journeys for Bilbo. Save one."
+  ],
+  [
+    33172,
+    33211,
+    "195",
+    "BILBO",
+    "Tell me again, lad. Where are we going?"
+  ],
+  [
+    33211,
+    33326,
+    "195",
+    "FRODO",
+    "To the harbour, Bilbo. The Elves have accorded you a special honor. A place on the last ship to leave Middle earth."
+  ],
+  [
+    33326,
+    33402,
+    "196",
+    "BILBO",
+    "Frodo ... Any chance of seeing that old Ring of mine ... the one I gave you?"
+  ],
+  [
+    33402,
+    33441,
+    "196",
+    "FRODO",
+    "Sorry, Uncle ... I'm afraid, I lost it."
+  ],
+  [
+    33441,
+    33498,
+    "196",
+    "BILBO",
+    "Oh ... pity. I should like to have held it one last time."
+  ],
+  [
+    33498,
+    33548,
+    "197",
+    "BILBO",
+    "Oh! Well, here's a sight I have never seen before."
+  ],
+  [
+    33548,
+    33629,
+    "197",
+    "GALADRIEL",
+    "The power of the Three Rings is ended. The time has come for the Dominion of Men."
+  ],
+  [
+    33629,
+    33674,
+    "197",
+    "ELROND",
+    "I Aear can v\u00ean na mar. The Sea calls us home."
+  ],
+  [
+    33674,
+    33720,
+    "197",
+    "BILBO",
+    "I think I'm quite ready for another adventure."
+  ],
+  [
+    33720,
+    33845,
+    "197",
+    "GANDALF",
+    "Farewell, my brave Hobbits. My work is now finished. Here at last, on the shores of the sea, comes the end of our Fellowship."
+  ],
+  [
+    33845,
+    33904,
+    "197",
+    "GANDALF",
+    "I will not say do not weep , for not all tears are an evil."
+  ],
+  [
+    33904,
+    33922,
+    "197",
+    "GANDALF",
+    "It is time, Frodo."
+  ],
+  [
+    33922,
+    33940,
+    "197",
+    "SAM",
+    "What does he mean?"
+  ],
+  [
+    33940,
+    34013,
+    "197",
+    "FRODO",
+    "We set out to save the Shire, and it has been saved ... but not for me..."
+  ],
+  [
+    34013,
+    34049,
+    "197",
+    "SAM",
+    "You don't mean that You can't leave!"
+  ],
+  [
+    34049,
+    34081,
+    "197",
+    "FRODO",
+    "The last pages are for you, Sam."
+  ]
+]

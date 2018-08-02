@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous">
+
+    <script src="./donut/donut.js"></script>
+    <script src="./donut/legend.js"></script>
+
+    <script src="./subs/subs.js"></script>
+    <script src="./linegraph/line.js"></script>
+
+
+    <script src="./index.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="index.css">
+</head>
+
+<body>
+    <div class="mode_change">
+        <a href="./storymode/index.html">
+            <button type="button" class="pure-button" id="story" style="padding: 5px">Story mode></button>
+        </a>
+    </div>
+
+    <div class="row middle border_green">
+        <div class="col-sm-12 titles" id="header1">
+            <h1>The Lord of the Rings</h1>
+            <h2>Information Visualization</h2>
+        </div>
+    </div>
+    <div class="row middle border_green">
+        <div class="col-sm-12" id="line_graph"></div>
+    </div>
+    <div class="row middle border_green">
+        <div class="col-sm-1 middle border_green">
+        </div>
+        <div class="col-sm-10 middle border_green">
+            <input id="timeline" type=range min=0 step=1 style="width: 100%"> </input>
+        </div>
+        <div class="col-sm-1 middle border_green" style="display: flex">
+            <div class="border_green" style="float: left">
+                <button type="button" class="pure-button" id="start">Play</button>
+                <button type="button" class="pure-button" id="stop">Pause</button>
+            </div>
+            <div class="border_green" style="float: right">
+                <button type="button" class="pure-button" id="plus">+</button>
+                <button type="button" class="pure-button" id="minus">-</button>
+            </div>
+        </div>
+    </div>
+    </div>
+    <div class="row middle border_green">
+        <div class="col-sm-10 middle border_green">
+            <p id="location">
+                location - time
+            </p>
+            <p id="subtitle">
+                subtitle
+            </p>
+        </div>
+    </div>
+    <div class="row middle border_green">
+        <div class="col-sm-2 border_green"></div>
+        <div class="col-sm-8 border_green" id="donut_chart"></div>
+        <div class="col-sm-2 border_green" id="donut_legend"></div>
+    </div>
+</body>
+
+</html>

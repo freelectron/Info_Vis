@@ -1,0 +1,258 @@
+{
+  "0": {
+    "characters": [
+      "ELROND",
+      "FADE",
+      "GALADRIEL",
+      "GOLLUM",
+      "BILBO"
+    ],
+    "length": 2525,
+    "location": "PROLOGUE",
+    "outside": false,
+    "text": [
+      [
+        "GALADRIEL",
+        "It began with the forging of the Great Rings"
+      ],
+      [
+        "GALADRIEL",
+        "Three were given to the Elves immortal wisest fairest of all beings"
+      ],
+      [
+        "GALADRIEL",
+        "Seven to the Dwarf Lords great miners and craftsmen of the mountain halls"
+      ],
+      [
+        "GALADRIEL",
+        "And Nine nine rings were gifted to the race of Men who above all else desire power"
+      ],
+      [
+        "GALADRIEL",
+        "For within these rings was bound the strength and the will to govern each race"
+      ],
+      [
+        "FADE",
+        ""
+      ],
+      [
+        "GALADRIEL",
+        "But they were all of them deceived"
+      ],
+      [
+        "GALADRIEL",
+        "for another Ring was made"
+      ],
+      [
+        "GALADRIEL",
+        "In the land of Mordor in the fires of Mount Doom the Dark Lord Sauron forged in secret a Master Ring to control all others"
+      ],
+      [
+        "GALADRIEL",
+        "and into this Ring he poured his cruelty his malice and his will to dominate all life"
+      ],
+      [
+        "GALADRIEL",
+        "One Ring to rule them all"
+      ],
+      [
+        "GALADRIEL",
+        "One by one the Free lands of Middle earth fell to the power of the Ring"
+      ],
+      [
+        "FADE",
+        ""
+      ],
+      [
+        "GALADRIEL",
+        "But there were some who resisted"
+      ],
+      [
+        "GALADRIEL",
+        "A last alliance of Men and Elves marched against the armies of Mordor On the slopes of Mount Doom they fought for the freedom of Middle Earth"
+      ],
+      [
+        "ELROND",
+        "Tangado haid Leithio i philinn  Hold positions Fire the arrows"
+      ],
+      [
+        "GALADRIEL",
+        "Victory was near"
+      ],
+      [
+        "GALADRIEL",
+        "But the power of the Ring could not be undone"
+      ],
+      [
+        "GALADRIEL",
+        "It was in this moment when all hope had faded that Isildur son of the king took up his father's sword"
+      ],
+      [
+        "GALADRIEL",
+        "Sauron the enemy of the Free Peoples of Middle Earth was defeated"
+      ],
+      [
+        "GALADRIEL",
+        "The Ring passed to Isildur who had this one chance to destroy evil forever"
+      ],
+      [
+        "GALADRIEL",
+        "But the hearts of Men are easily corrupted And the Ring of Power has a will of its own"
+      ],
+      [
+        "GALADRIEL",
+        "It betrayed Isildur to his death"
+      ],
+      [
+        "GALADRIEL",
+        "And some things that should not have been forgotten were lost"
+      ],
+      [
+        "FADE",
+        ""
+      ],
+      [
+        "GALADRIEL",
+        "Thus a Third Age of Middle Earth began History became legend legend became myth"
+      ],
+      [
+        "GALADRIEL",
+        "And for two and a half thousand years the Ring passed out of all knowledge"
+      ],
+      [
+        "GALADRIEL",
+        "Until when chance came it ensnared a new bearer"
+      ],
+      [
+        "GOLLUM",
+        "My Precious"
+      ],
+      [
+        "GALADRIEL",
+        "The Ring came to the creature Gollum who took it deep into the tunnels of the Misty Mountains"
+      ],
+      [
+        "GALADRIEL",
+        "And there it consumed him"
+      ],
+      [
+        "GOLLUM",
+        "It came to me My own My love  My preciousness"
+      ],
+      [
+        "GALADRIEL",
+        "The Ring gave to Gollum unnatural long life For five hundred years it poisoned his mind And in the gloom of Gollum's cave"
+      ],
+      [
+        "FADE",
+        ""
+      ],
+      [
+        "GALADRIEL",
+        "It waited"
+      ],
+      [
+        "GALADRIEL",
+        "Darkness crept back into the forests of the world Rumor grew of a Shadow in the East whispers of a nameless fear And the Ring of Power perceived its time had now come It abandoned Gollum"
+      ],
+      [
+        "GALADRIEL",
+        "But something happened then the Ring did not intend"
+      ],
+      [
+        "FADE",
+        ""
+      ],
+      [
+        "GALADRIEL",
+        "It was picked up by the most unlikely creature imaginable"
+      ],
+      [
+        "BILBO",
+        "What's this"
+      ],
+      [
+        "GALADRIEL",
+        "A Hobbit Bilbo Baggins of the Shire"
+      ],
+      [
+        "BILBO",
+        "A Ring"
+      ],
+      [
+        "GOLLUM",
+        "Lost Lost My Precious is lost"
+      ],
+      [
+        "GALADRIEL",
+        "For the time will soon come when Hobbits will shape the fortunes of all"
+      ],
+      [
+        "BILBO",
+        "The 22nd day of September in the year 1400 by Shire reckoning Bag End Bagshot Row Hobbiton Westfarthing the Shire Middle earth The Third Age of this world"
+      ]
+    ],
+    "time": "DAY"
+  },
+  "1": {
+    "characters": [],
+    "length": 0,
+    "location": "BAG END HALLWAY",
+    "outside": false,
+    "text": [],
+    "time": "DAY"
+  },
+  "2": {
+    "characters": [
+      "BILBO"
+    ],
+    "length": 96,
+    "location": "BAG END STUDY",
+    "outside": false,
+    "text": [
+      [
+        "BILBO",
+        "There and Back Again A Hobbit's Tale by Bilbo Baggins"
+      ],
+      [
+        "BILBO",
+        "Now where to begin Ah yes"
+      ],
+      [
+        "BILBO",
+        "Concerning Hobbits"
+      ]
+    ],
+    "time": "DAY"
+  },
+  "3": {
+    "characters": [
+      "BILBO"
+    ],
+    "length": 346,
+    "location": "HOBBITON",
+    "outside": false,
+    "text": [
+      [
+        "BILBO",
+        "Hobbits have been living and farming in the four Farthings of the Shire for many hundreds of years quite content to ignore and be ignored by the world of the Big Folk Middle earth being after all full of strange creatures beyond count Hobbits must seem of little importance being neither renowned as great warriors nor counted among the very wise"
+      ]
+    ],
+    "time": "DAY"
+  },
+  "4": {
+    "characters": [
+      "BILBO"
+    ],
+    "length": 25,
+    "location": "BAG END STUDY",
+    "outside": false,
+    "text": [
+      [
+        "BILBO",
+        "Frodo Someone at the door"
+      ]
+    ],
+    "time": "DAY"
+  }
+}

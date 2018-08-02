@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+
+    <script src="./donut.js"></script>
+    <link rel="stylesheet" type="text/css" href="test.css">
+</head>
+
+<h1>Feel the emotions of LotR</h1>
+
+<body>
+    <div id="chart"></div>
+    <input id="timeline_test" type=range min=0 step=1 style="width: 75%"> </input>
+
+
+    <script>
+
+    var loc = "./all_emotions_percentages.json";
+    console.log(Donut);
+
+    Donut.init(loc, d3.select("#chart"), "./images/")
+
+    $(document).ready(() => {
+
+        $("#timeline_test").attr({
+            "max": Donut.data.length,
+        })
+    })
+
+    $(document).ready(() => {
+        console.log(Donut);
+        Donut.create_all_donuts("0")
+
+        $("#timeline_test").change(() => {
+            var scene = $("#timeline_test").val()
+            Donut.create_all_donuts(scene)
+        })
+    })
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,11 @@
+--2018-02-21 14:25:04--  https://vignette.wikia.nocookie.net/projectutopiarp/images/d/dd/Unknown.png/revision/latest?cb=20110622112402
+Resolving vignette.wikia.nocookie.net (vignette.wikia.nocookie.net)... 74.120.188.204, 74.120.188.194, 2620:11a:e002:fa00::204, ...
+Connecting to vignette.wikia.nocookie.net (vignette.wikia.nocookie.net)|74.120.188.204|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3659 (3,6K) [image/png]
+Saving to: ‘images/INTOXICATED’
+
+     0K ...                                                   100%  533M=0s
+
+2018-02-21 14:25:04 (533 MB/s) - ‘images/INTOXICATED’ saved [3659/3659]
+
